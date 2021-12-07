@@ -63,6 +63,7 @@ To change link speeds in thee experiment create a trace file for ex- 12Mbps and 
 similarly for 36Mbps use the following in the file -
 ```
 0
+0
 1
 ```
 
