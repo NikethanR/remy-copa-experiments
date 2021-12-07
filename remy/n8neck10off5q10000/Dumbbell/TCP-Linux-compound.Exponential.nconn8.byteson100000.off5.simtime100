@@ -1,0 +1,955 @@
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1683400 rMbps: 0.75 fctMs: 1001 abytes: 1683360 aMbps: 0.748 sndrttMs 159.5 rcdrttMs 161.7 s_util: 8.45 r_util: 8.45 onperc: 18.0
+conn: 1 rbytes: 2294500 rMbps: 1.04 fctMs: 837 abytes: 2294460 aMbps: 1.044 sndrttMs 163.9 rcdrttMs 166.6 s_util: 8.76 r_util: 8.76 onperc: 17.6
+conn: 2 rbytes: 2876620 rMbps: 1.37 fctMs: 883 abytes: 2876580 aMbps: 1.371 sndrttMs 167.7 rcdrttMs 168.0 s_util: 9.01 r_util: 9.01 onperc: 16.8
+conn: 3 rbytes: 2145820 rMbps: 1.57 fctMs: 783 abytes: 2145780 aMbps: 1.566 sndrttMs 174.3 rcdrttMs 172.2 s_util: 9.10 r_util: 9.10 onperc: 11.0
+conn: 4 rbytes: 898420 rMbps: 0.58 fctMs: 833 abytes: 898380 aMbps: 0.575 sndrttMs 166.4 rcdrttMs 159.8 s_util: 8.15 r_util: 8.15 onperc: 12.5
+conn: 5 rbytes: 2183620 rMbps: 0.89 fctMs: 1305 abytes: 2183580 aMbps: 0.892 sndrttMs 160.3 rcdrttMs 161.3 s_util: 8.62 r_util: 8.62 onperc: 19.6
+conn: 6 rbytes: 1950520 rMbps: 1.08 fctMs: 800 abytes: 1950480 aMbps: 1.083 sndrttMs 160.3 rcdrttMs 164.3 s_util: 8.82 r_util: 8.82 onperc: 14.4
+conn: 7 rbytes: 2063920 rMbps: 1.30 fctMs: 844 abytes: 2036160 aMbps: 1.287 sndrttMs 181.3 rcdrttMs 184.0 s_util: 8.87 r_util: 8.88 onperc: 12.7
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x55e601ae7e80 resizing timestamp table
+0x55e601aee560 resizing timestamp table
+0x55e601b03d60 resizing timestamp table
+0x55e601ade310 resizing timestamp table
+0x55e601afced0 resizing timestamp table
+0x55e601b0adb0 resizing timestamp table
+0x55e601ac90e0 resizing timestamp table
+0x55e601b0adb0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1501960 rMbps: 1.11 fctMs: 834 abytes: 1499400 aMbps: 1.106 sndrttMs 161.6 rcdrttMs 164.9 s_util: 8.83 r_util: 8.83 onperc: 10.8
+conn: 1 rbytes: 1678360 rMbps: 1.07 fctMs: 696 abytes: 1678320 aMbps: 1.072 sndrttMs 164.3 rcdrttMs 166.9 s_util: 8.78 r_util: 8.78 onperc: 12.5
+conn: 2 rbytes: 2430580 rMbps: 1.16 fctMs: 763 abytes: 2430540 aMbps: 1.158 sndrttMs 166.9 rcdrttMs 168.9 s_util: 8.85 r_util: 8.85 onperc: 16.8
+conn: 3 rbytes: 934960 rMbps: 0.67 fctMs: 617 abytes: 934920 aMbps: 0.673 sndrttMs 165.8 rcdrttMs 174.0 s_util: 8.31 r_util: 8.31 onperc: 11.1
+conn: 4 rbytes: 2614540 rMbps: 1.22 fctMs: 776 abytes: 2614500 aMbps: 1.225 sndrttMs 167.5 rcdrttMs 169.3 s_util: 8.90 r_util: 8.90 onperc: 17.1
+conn: 5 rbytes: 987880 rMbps: 0.58 fctMs: 1138 abytes: 987840 aMbps: 0.579 sndrttMs 158.0 rcdrttMs 160.6 s_util: 8.21 r_util: 8.21 onperc: 13.7
+conn: 6 rbytes: 1586380 rMbps: 0.93 fctMs: 857 abytes: 1586340 aMbps: 0.926 sndrttMs 161.1 rcdrttMs 162.6 s_util: 8.66 r_util: 8.66 onperc: 13.7
+conn: 7 rbytes: 1202080 rMbps: 1.00 fctMs: 797 abytes: 1202040 aMbps: 1.005 sndrttMs 162.7 rcdrttMs 166.5 s_util: 8.73 r_util: 8.73 onperc: 9.6
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x556215699db0 resizing timestamp table
+0x556215684e50 resizing timestamp table
+0x556215692d60 resizing timestamp table
+0x556215676e80 resizing timestamp table
+0x55621566d310 resizing timestamp table
+0x5562156580e0 resizing timestamp table
+0x55621567d560 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1464160 rMbps: 1.11 fctMs: 706 abytes: 1464120 aMbps: 1.107 sndrttMs 164.1 rcdrttMs 165.3 s_util: 8.82 r_util: 8.82 onperc: 10.6
+conn: 1 rbytes: 2465860 rMbps: 1.19 fctMs: 789 abytes: 2465820 aMbps: 1.191 sndrttMs 163.7 rcdrttMs 166.8 s_util: 8.89 r_util: 8.89 onperc: 16.6
+conn: 2 rbytes: 1509520 rMbps: 1.26 fctMs: 738 abytes: 1509480 aMbps: 1.258 sndrttMs 178.8 rcdrttMs 178.5 s_util: 8.86 r_util: 8.86 onperc: 9.6
+conn: 3 rbytes: 1576300 rMbps: 0.77 fctMs: 1091 abytes: 1576260 aMbps: 0.770 sndrttMs 157.7 rcdrttMs 160.1 s_util: 8.49 r_util: 8.49 onperc: 16.4
+conn: 4 rbytes: 1238620 rMbps: 0.88 fctMs: 805 abytes: 1238580 aMbps: 0.879 sndrttMs 159.7 rcdrttMs 162.1 s_util: 8.61 r_util: 8.61 onperc: 11.3
+conn: 5 rbytes: 2183620 rMbps: 1.12 fctMs: 863 abytes: 2181060 aMbps: 1.123 sndrttMs 163.9 rcdrttMs 168.8 s_util: 8.83 r_util: 8.83 onperc: 15.5
+conn: 6 rbytes: 1580080 rMbps: 0.52 fctMs: 963 abytes: 1580040 aMbps: 0.525 sndrttMs 157.6 rcdrttMs 158.6 s_util: 8.11 r_util: 8.11 onperc: 24.1
+conn: 7 rbytes: 2424280 rMbps: 1.23 fctMs: 873 abytes: 2424240 aMbps: 1.234 sndrttMs 163.7 rcdrttMs 166.8 s_util: 8.93 r_util: 8.93 onperc: 15.7
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x55a5900b7310 resizing timestamp table
+0x55a5900c0e80 resizing timestamp table
+0x55a5900e3db0 resizing timestamp table
+0x55a5900e3db0 resizing timestamp table
+0x55a5900d5ed0 resizing timestamp table
+0x55a5900a20e0 resizing timestamp table
+0x55a5900c7560 resizing timestamp table
+0x55a5900cee50 resizing timestamp table
+0x55a5900c0e80 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1278940 rMbps: 0.81 fctMs: 741 abytes: 1278900 aMbps: 0.812 sndrttMs 159.5 rcdrttMs 161.9 s_util: 8.54 r_util: 8.54 onperc: 12.6
+conn: 1 rbytes: 958900 rMbps: 1.07 fctMs: 797 abytes: 958860 aMbps: 1.070 sndrttMs 161.8 rcdrttMs 166.4 s_util: 8.80 r_util: 8.80 onperc: 7.2
+conn: 2 rbytes: 1391080 rMbps: 0.90 fctMs: 730 abytes: 1391040 aMbps: 0.897 sndrttMs 159.9 rcdrttMs 163.2 s_util: 8.63 r_util: 8.63 onperc: 12.4
+conn: 3 rbytes: 1013080 rMbps: 0.81 fctMs: 771 abytes: 1013040 aMbps: 0.809 sndrttMs 160.6 rcdrttMs 164.0 s_util: 8.52 r_util: 8.52 onperc: 10.0
+conn: 4 rbytes: 2216380 rMbps: 1.21 fctMs: 1050 abytes: 2206260 aMbps: 1.201 sndrttMs 166.7 rcdrttMs 166.8 s_util: 8.88 r_util: 8.89 onperc: 14.7
+conn: 5 rbytes: 1057180 rMbps: 0.56 fctMs: 949 abytes: 1057140 aMbps: 0.557 sndrttMs 157.7 rcdrttMs 157.9 s_util: 8.17 r_util: 8.17 onperc: 15.2
+conn: 6 rbytes: 1423840 rMbps: 1.25 fctMs: 757 abytes: 1423800 aMbps: 1.254 sndrttMs 178.7 rcdrttMs 177.5 s_util: 8.86 r_util: 8.86 onperc: 9.1
+conn: 7 rbytes: 1978240 rMbps: 1.03 fctMs: 850 abytes: 1978200 aMbps: 1.034 sndrttMs 161.9 rcdrttMs 164.8 s_util: 8.76 r_util: 8.76 onperc: 15.3
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x560e675a5db0 resizing timestamp table
+0x560e67590e50 resizing timestamp table
+0x560e67589560 resizing timestamp table
+0x560e6759ed60 resizing timestamp table
+0x560e67582e80 resizing timestamp table
+0x560e675640e0 resizing timestamp table
+0x560e6759ed60 resizing timestamp table
+0x560e67579310 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1532200 rMbps: 0.99 fctMs: 772 abytes: 1532160 aMbps: 0.992 sndrttMs 164.2 rcdrttMs 168.0 s_util: 8.71 r_util: 8.71 onperc: 12.4
+conn: 1 rbytes: 2186140 rMbps: 1.32 fctMs: 881 abytes: 2186100 aMbps: 1.324 sndrttMs 165.9 rcdrttMs 168.3 s_util: 8.98 r_util: 8.98 onperc: 13.2
+conn: 2 rbytes: 1129000 rMbps: 0.68 fctMs: 698 abytes: 1128960 aMbps: 0.681 sndrttMs 158.6 rcdrttMs 161.1 s_util: 8.36 r_util: 8.36 onperc: 13.3
+conn: 3 rbytes: 2192440 rMbps: 1.13 fctMs: 817 abytes: 2192400 aMbps: 1.130 sndrttMs 161.8 rcdrttMs 165.7 s_util: 8.85 r_util: 8.85 onperc: 15.5
+conn: 4 rbytes: 1678360 rMbps: 0.63 fctMs: 1245 abytes: 1678320 aMbps: 0.635 sndrttMs 154.7 rcdrttMs 154.7 s_util: 8.32 r_util: 8.32 onperc: 21.2
+conn: 5 rbytes: 2050060 rMbps: 1.16 fctMs: 831 abytes: 1951740 aMbps: 1.105 sndrttMs 163.7 rcdrttMs 167.3 s_util: 8.82 r_util: 8.87 onperc: 14.1
+conn: 6 rbytes: 1992100 rMbps: 1.41 fctMs: 945 abytes: 1992060 aMbps: 1.405 sndrttMs 167.4 rcdrttMs 169.6 s_util: 9.04 r_util: 9.04 onperc: 11.3
+conn: 7 rbytes: 1118920 rMbps: 0.77 fctMs: 777 abytes: 1118880 aMbps: 0.768 sndrttMs 158.9 rcdrttMs 160.4 s_util: 8.48 r_util: 8.48 onperc: 11.7
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x561acc5c8310 resizing timestamp table
+0x561acc5edd60 resizing timestamp table
+0x561acc5edd60 resizing timestamp table
+0x561acc5b30e0 resizing timestamp table
+0x561acc5d8560 resizing timestamp table
+0x561acc5e6ed0 resizing timestamp table
+0x561acc5e6ed0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1283980 rMbps: 0.85 fctMs: 929 abytes: 1283940 aMbps: 0.851 sndrttMs 160.5 rcdrttMs 162.4 s_util: 8.58 r_util: 8.58 onperc: 12.1
+conn: 1 rbytes: 1598980 rMbps: 0.86 fctMs: 988 abytes: 1598940 aMbps: 0.863 sndrttMs 160.8 rcdrttMs 164.3 s_util: 8.59 r_util: 8.59 onperc: 14.8
+conn: 2 rbytes: 1801840 rMbps: 1.23 fctMs: 835 abytes: 1801800 aMbps: 1.234 sndrttMs 163.3 rcdrttMs 168.3 s_util: 8.93 r_util: 8.93 onperc: 11.7
+conn: 3 rbytes: 2351200 rMbps: 1.47 fctMs: 916 abytes: 2351160 aMbps: 1.466 sndrttMs 170.3 rcdrttMs 170.2 s_util: 9.06 r_util: 9.06 onperc: 12.8
+conn: 4 rbytes: 1595200 rMbps: 1.07 fctMs: 796 abytes: 1595160 aMbps: 1.069 sndrttMs 163.3 rcdrttMs 166.5 s_util: 8.79 r_util: 8.79 onperc: 11.9
+conn: 5 rbytes: 1436440 rMbps: 0.97 fctMs: 1183 abytes: 1436400 aMbps: 0.971 sndrttMs 162.9 rcdrttMs 164.3 s_util: 8.69 r_util: 8.69 onperc: 11.8
+conn: 6 rbytes: 1397380 rMbps: 0.92 fctMs: 715 abytes: 1397340 aMbps: 0.919 sndrttMs 161.5 rcdrttMs 164.8 s_util: 8.65 r_util: 8.65 onperc: 12.2
+conn: 7 rbytes: 1777900 rMbps: 1.17 fctMs: 865 abytes: 1777860 aMbps: 1.174 sndrttMs 165.1 rcdrttMs 166.6 s_util: 8.87 r_util: 8.87 onperc: 12.1
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x561633f54ed0 resizing timestamp table
+0x561633f46560 resizing timestamp table
+0x561633f46560 resizing timestamp table
+0x561633f4de50 resizing timestamp table
+0x561633f54ed0 resizing timestamp table
+0x561633f62db0 resizing timestamp table
+0x561633f210e0 resizing timestamp table
+0x561633f3fe80 resizing timestamp table
+0x561633f5bd60 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2973640 rMbps: 1.18 fctMs: 839 abytes: 2973600 aMbps: 1.181 sndrttMs 163.7 rcdrttMs 167.8 s_util: 8.88 r_util: 8.88 onperc: 20.1
+conn: 1 rbytes: 1296580 rMbps: 1.09 fctMs: 678 abytes: 1296540 aMbps: 1.093 sndrttMs 162.7 rcdrttMs 165.8 s_util: 8.81 r_util: 8.81 onperc: 9.5
+conn: 2 rbytes: 2799760 rMbps: 1.40 fctMs: 798 abytes: 2795940 aMbps: 1.402 sndrttMs 168.3 rcdrttMs 170.3 s_util: 9.03 r_util: 9.03 onperc: 16.0
+conn: 3 rbytes: 1401160 rMbps: 0.95 fctMs: 785 abytes: 1391040 aMbps: 0.945 sndrttMs 163.5 rcdrttMs 166.2 s_util: 8.66 r_util: 8.67 onperc: 11.8
+conn: 4 rbytes: 1461640 rMbps: 0.77 fctMs: 687 abytes: 1461600 aMbps: 0.774 sndrttMs 161.2 rcdrttMs 163.1 s_util: 8.48 r_util: 8.48 onperc: 15.1
+conn: 5 rbytes: 1365880 rMbps: 1.00 fctMs: 728 abytes: 1365840 aMbps: 1.000 sndrttMs 161.5 rcdrttMs 164.0 s_util: 8.73 r_util: 8.73 onperc: 10.9
+conn: 6 rbytes: 1173100 rMbps: 0.88 fctMs: 765 abytes: 1173060 aMbps: 0.877 sndrttMs 161.8 rcdrttMs 165.9 s_util: 8.60 r_util: 8.60 onperc: 10.7
+conn: 7 rbytes: 2259220 rMbps: 1.22 fctMs: 874 abytes: 2259180 aMbps: 1.216 sndrttMs 162.5 rcdrttMs 166.3 s_util: 8.92 r_util: 8.92 onperc: 14.9
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x558ad6a400e0 resizing timestamp table
+0x558ad6a65560 resizing timestamp table
+0x558ad6a55310 resizing timestamp table
+0x558ad6a73ed0 resizing timestamp table
+0x558ad6a5ee80 resizing timestamp table
+0x558ad6a7ad60 resizing timestamp table
+0x558ad6a81db0 resizing timestamp table
+0x558ad6a5ee80 resizing timestamp table
+0x558ad6a6ce50 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1755220 rMbps: 0.89 fctMs: 788 abytes: 1755180 aMbps: 0.891 sndrttMs 159.6 rcdrttMs 163.1 s_util: 8.63 r_util: 8.63 onperc: 15.8
+conn: 1 rbytes: 1755220 rMbps: 1.06 fctMs: 831 abytes: 1755180 aMbps: 1.056 sndrttMs 162.8 rcdrttMs 165.0 s_util: 8.78 r_util: 8.78 onperc: 13.3
+conn: 2 rbytes: 1969420 rMbps: 1.02 fctMs: 770 abytes: 1935360 aMbps: 1.005 sndrttMs 162.3 rcdrttMs 164.1 s_util: 8.73 r_util: 8.75 onperc: 15.4
+conn: 3 rbytes: 1180660 rMbps: 0.54 fctMs: 1252 abytes: 1180620 aMbps: 0.539 sndrttMs 154.0 rcdrttMs 154.2 s_util: 8.16 r_util: 8.16 onperc: 17.5
+conn: 4 rbytes: 1922800 rMbps: 1.08 fctMs: 836 abytes: 1922760 aMbps: 1.082 sndrttMs 161.2 rcdrttMs 163.6 s_util: 8.81 r_util: 8.81 onperc: 14.2
+conn: 5 rbytes: 1126480 rMbps: 1.00 fctMs: 749 abytes: 1126440 aMbps: 1.003 sndrttMs 164.1 rcdrttMs 167.5 s_util: 8.72 r_util: 8.72 onperc: 9.0
+conn: 6 rbytes: 2135740 rMbps: 1.11 fctMs: 812 abytes: 2135700 aMbps: 1.107 sndrttMs 161.7 rcdrttMs 166.5 s_util: 8.83 r_util: 8.83 onperc: 15.4
+conn: 7 rbytes: 1794280 rMbps: 1.06 fctMs: 845 abytes: 1794240 aMbps: 1.061 sndrttMs 164.6 rcdrttMs 168.6 s_util: 8.77 r_util: 8.77 onperc: 13.5
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x563aea5b8310 resizing timestamp table
+0x563aea5c1e80 resizing timestamp table
+0x563aea5cfe50 resizing timestamp table
+0x563aea5e4db0 resizing timestamp table
+0x563aea5e4db0 resizing timestamp table
+0x563aea5d6ed0 resizing timestamp table
+0x563aea5ddd60 resizing timestamp table
+0x563aea5a30e0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2285680 rMbps: 1.32 fctMs: 867 abytes: 2285640 aMbps: 1.318 sndrttMs 171.3 rcdrttMs 170.8 s_util: 8.95 r_util: 8.95 onperc: 13.9
+conn: 1 rbytes: 1107580 rMbps: 0.58 fctMs: 956 abytes: 1107540 aMbps: 0.579 sndrttMs 153.9 rcdrttMs 153.8 s_util: 8.23 r_util: 8.23 onperc: 15.3
+conn: 2 rbytes: 1588900 rMbps: 0.88 fctMs: 758 abytes: 1588860 aMbps: 0.883 sndrttMs 162.3 rcdrttMs 163.9 s_util: 8.60 r_util: 8.60 onperc: 14.4
+conn: 3 rbytes: 2003440 rMbps: 1.08 fctMs: 741 abytes: 1963080 aMbps: 1.060 sndrttMs 162.4 rcdrttMs 165.6 s_util: 8.78 r_util: 8.80 onperc: 14.8
+conn: 4 rbytes: 1484320 rMbps: 0.56 fctMs: 1051 abytes: 1484280 aMbps: 0.565 sndrttMs 157.2 rcdrttMs 158.5 s_util: 8.19 r_util: 8.19 onperc: 21.0
+conn: 5 rbytes: 1942960 rMbps: 1.03 fctMs: 755 abytes: 1942920 aMbps: 1.030 sndrttMs 165.5 rcdrttMs 168.3 s_util: 8.74 r_util: 8.74 onperc: 15.1
+conn: 6 rbytes: 1556140 rMbps: 0.98 fctMs: 794 abytes: 1556100 aMbps: 0.980 sndrttMs 162.8 rcdrttMs 166.3 s_util: 8.70 r_util: 8.70 onperc: 12.7
+conn: 7 rbytes: 1173100 rMbps: 0.80 fctMs: 729 abytes: 1173060 aMbps: 0.805 sndrttMs 161.9 rcdrttMs 168.9 s_util: 8.51 r_util: 8.51 onperc: 11.7
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x5604d0e02ed0 resizing timestamp table
+0x5604d0dfbe50 resizing timestamp table
+0x5604d0dcf0e0 resizing timestamp table
+0x5604d0dcf0e0 resizing timestamp table
+0x5604d0dede80 resizing timestamp table
+0x5604d0e09d60 resizing timestamp table
+0x5604d0df4560 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2007220 rMbps: 0.98 fctMs: 822 abytes: 2007180 aMbps: 0.976 sndrttMs 161.0 rcdrttMs 164.2 s_util: 8.71 r_util: 8.71 onperc: 16.4
+conn: 1 rbytes: 1442740 rMbps: 0.93 fctMs: 772 abytes: 1442700 aMbps: 0.935 sndrttMs 161.7 rcdrttMs 165.8 s_util: 8.66 r_util: 8.66 onperc: 12.3
+conn: 2 rbytes: 2145820 rMbps: 1.16 fctMs: 926 abytes: 2145780 aMbps: 1.158 sndrttMs 166.9 rcdrttMs 167.2 s_util: 8.85 r_util: 8.85 onperc: 14.8
+conn: 3 rbytes: 2356240 rMbps: 0.68 fctMs: 1623 abytes: 2356200 aMbps: 0.683 sndrttMs 153.8 rcdrttMs 153.9 s_util: 8.40 r_util: 8.40 onperc: 27.6
+conn: 4 rbytes: 2075260 rMbps: 1.09 fctMs: 949 abytes: 2075220 aMbps: 1.094 sndrttMs 161.0 rcdrttMs 163.8 s_util: 8.82 r_util: 8.82 onperc: 15.2
+conn: 5 rbytes: 2377660 rMbps: 1.06 fctMs: 783 abytes: 2377620 aMbps: 1.056 sndrttMs 161.0 rcdrttMs 164.8 s_util: 8.79 r_util: 8.79 onperc: 18.0
+conn: 6 rbytes: 1546060 rMbps: 0.86 fctMs: 757 abytes: 1546020 aMbps: 0.860 sndrttMs 160.7 rcdrttMs 163.2 s_util: 8.59 r_util: 8.59 onperc: 14.4
+conn: 7 rbytes: 1263820 rMbps: 0.84 fctMs: 704 abytes: 1263780 aMbps: 0.844 sndrttMs 160.5 rcdrttMs 163.1 s_util: 8.57 r_util: 8.57 onperc: 12.0
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x5607cf07ee80 resizing timestamp table
+0x5607cf07ee80 resizing timestamp table
+0x5607cf09ad60 resizing timestamp table
+0x5607cf08ce50 resizing timestamp table
+0x5607cf075310 resizing timestamp table
+0x5607cf0a1db0 resizing timestamp table
+0x5607cf093ed0 resizing timestamp table
+0x5607cf0600e0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1837120 rMbps: 0.89 fctMs: 830 abytes: 1837080 aMbps: 0.886 sndrttMs 160.8 rcdrttMs 162.9 s_util: 8.61 r_util: 8.61 onperc: 16.6
+conn: 1 rbytes: 1964380 rMbps: 1.08 fctMs: 910 abytes: 1961820 aMbps: 1.078 sndrttMs 161.4 rcdrttMs 164.1 s_util: 8.81 r_util: 8.81 onperc: 14.6
+conn: 2 rbytes: 1941700 rMbps: 0.96 fctMs: 813 abytes: 1939140 aMbps: 0.954 sndrttMs 162.8 rcdrttMs 164.8 s_util: 8.68 r_util: 8.68 onperc: 16.3
+conn: 3 rbytes: 1887520 rMbps: 1.16 fctMs: 816 abytes: 1887480 aMbps: 1.157 sndrttMs 162.9 rcdrttMs 166.0 s_util: 8.87 r_util: 8.87 onperc: 13.1
+conn: 4 rbytes: 2288200 rMbps: 1.08 fctMs: 734 abytes: 2288160 aMbps: 1.085 sndrttMs 165.3 rcdrttMs 167.3 s_util: 8.79 r_util: 8.79 onperc: 16.9
+conn: 5 rbytes: 1658200 rMbps: 0.67 fctMs: 1787 abytes: 1658160 aMbps: 0.675 sndrttMs 152.4 rcdrttMs 152.9 s_util: 8.40 r_util: 8.40 onperc: 19.7
+conn: 6 rbytes: 2283160 rMbps: 1.53 fctMs: 795 abytes: 2283120 aMbps: 1.532 sndrttMs 171.3 rcdrttMs 173.0 s_util: 9.10 r_util: 9.10 onperc: 11.9
+conn: 7 rbytes: 2533900 rMbps: 0.72 fctMs: 1758 abytes: 2533860 aMbps: 0.721 sndrttMs 154.1 rcdrttMs 155.0 s_util: 8.45 r_util: 8.45 onperc: 28.1
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x55683b469e50 resizing timestamp table
+0x55683b469e50 resizing timestamp table
+0x55683b477d60 resizing timestamp table
+0x55683b477d60 resizing timestamp table
+0x55683b462560 resizing timestamp table
+0x55683b45be80 resizing timestamp table
+0x55683b452310 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2101720 rMbps: 1.20 fctMs: 824 abytes: 2101680 aMbps: 1.201 sndrttMs 165.0 rcdrttMs 169.0 s_util: 8.89 r_util: 8.89 onperc: 14.0
+conn: 1 rbytes: 1421320 rMbps: 0.87 fctMs: 934 abytes: 1421280 aMbps: 0.870 sndrttMs 164.5 rcdrttMs 163.4 s_util: 8.57 r_util: 8.57 onperc: 13.1
+conn: 2 rbytes: 2808580 rMbps: 1.52 fctMs: 869 abytes: 2808540 aMbps: 1.520 sndrttMs 167.9 rcdrttMs 169.3 s_util: 9.11 r_util: 9.11 onperc: 14.8
+conn: 3 rbytes: 981580 rMbps: 0.94 fctMs: 760 abytes: 981540 aMbps: 0.939 sndrttMs 161.4 rcdrttMs 163.3 s_util: 8.67 r_util: 8.67 onperc: 8.4
+conn: 4 rbytes: 2738020 rMbps: 1.63 fctMs: 897 abytes: 2737980 aMbps: 1.627 sndrttMs 173.9 rcdrttMs 174.9 s_util: 9.14 r_util: 9.14 onperc: 13.5
+conn: 5 rbytes: 1790500 rMbps: 1.09 fctMs: 770 abytes: 1790460 aMbps: 1.094 sndrttMs 161.6 rcdrttMs 163.8 s_util: 8.82 r_util: 8.82 onperc: 13.1
+conn: 6 rbytes: 1199560 rMbps: 0.85 fctMs: 803 abytes: 1199520 aMbps: 0.853 sndrttMs 158.4 rcdrttMs 160.9 s_util: 8.59 r_util: 8.59 onperc: 11.2
+conn: 7 rbytes: 2503660 rMbps: 0.89 fctMs: 1125 abytes: 2498580 aMbps: 0.889 sndrttMs 159.5 rcdrttMs 160.6 s_util: 8.63 r_util: 8.63 onperc: 22.5
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x564370ed30e0 resizing timestamp table
+0x564370ed30e0 resizing timestamp table
+0x564370f14db0 resizing timestamp table
+0x564370effe50 resizing timestamp table
+0x564370f06ed0 resizing timestamp table
+0x564370ef1e80 resizing timestamp table
+0x564370effe50 resizing timestamp table
+0x564370ef8560 resizing timestamp table
+0x564370ee8310 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2620840 rMbps: 1.44 fctMs: 764 abytes: 2620800 aMbps: 1.444 sndrttMs 174.6 rcdrttMs 175.4 s_util: 9.02 r_util: 9.02 onperc: 14.5
+conn: 1 rbytes: 1605280 rMbps: 1.10 fctMs: 897 abytes: 1554840 aMbps: 1.067 sndrttMs 163.5 rcdrttMs 165.4 s_util: 8.78 r_util: 8.82 onperc: 11.7
+conn: 2 rbytes: 1964380 rMbps: 1.08 fctMs: 767 abytes: 1964340 aMbps: 1.078 sndrttMs 165.1 rcdrttMs 168.2 s_util: 8.78 r_util: 8.78 onperc: 14.6
+conn: 3 rbytes: 2968600 rMbps: 1.16 fctMs: 853 abytes: 2968560 aMbps: 1.160 sndrttMs 169.0 rcdrttMs 169.1 s_util: 8.83 r_util: 8.83 onperc: 20.5
+conn: 4 rbytes: 2605720 rMbps: 1.19 fctMs: 795 abytes: 2605680 aMbps: 1.192 sndrttMs 161.8 rcdrttMs 165.9 s_util: 8.90 r_util: 8.90 onperc: 17.5
+conn: 5 rbytes: 1381000 rMbps: 0.90 fctMs: 820 abytes: 1380960 aMbps: 0.899 sndrttMs 162.6 rcdrttMs 165.6 s_util: 8.62 r_util: 8.62 onperc: 12.3
+conn: 6 rbytes: 1494400 rMbps: 0.86 fctMs: 814 abytes: 1494360 aMbps: 0.864 sndrttMs 163.4 rcdrttMs 163.9 s_util: 8.57 r_util: 8.57 onperc: 13.8
+conn: 7 rbytes: 3391960 rMbps: 1.49 fctMs: 909 abytes: 3391920 aMbps: 1.493 sndrttMs 169.7 rcdrttMs 171.2 s_util: 9.08 r_util: 9.08 onperc: 18.2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x55a34cc21db0 resizing timestamp table
+0x55a34cc21db0 resizing timestamp table
+0x55a34cc0ce50 resizing timestamp table
+0x55a34cc05560 resizing timestamp table
+0x55a34cc05560 resizing timestamp table
+0x55a34cbf5310 resizing timestamp table
+0x55a34cc1ad60 resizing timestamp table
+0x55a34cbe00e0 resizing timestamp table
+0x55a34cbfee80 resizing timestamp table
+0x55a34cbe00e0 resizing timestamp table
+0x55a34cc13ed0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2163460 rMbps: 1.01 fctMs: 1008 abytes: 2163420 aMbps: 1.010 sndrttMs 164.5 rcdrttMs 166.9 s_util: 8.72 r_util: 8.72 onperc: 17.1
+conn: 1 rbytes: 2131960 rMbps: 1.07 fctMs: 837 abytes: 2131920 aMbps: 1.072 sndrttMs 162.4 rcdrttMs 165.4 s_util: 8.79 r_util: 8.79 onperc: 15.9
+conn: 2 rbytes: 1229800 rMbps: 0.69 fctMs: 748 abytes: 1229760 aMbps: 0.693 sndrttMs 157.7 rcdrttMs 158.8 s_util: 8.39 r_util: 8.39 onperc: 14.2
+conn: 3 rbytes: 3036640 rMbps: 1.49 fctMs: 903 abytes: 3036600 aMbps: 1.495 sndrttMs 175.3 rcdrttMs 174.1 s_util: 9.05 r_util: 9.05 onperc: 16.2
+conn: 4 rbytes: 2024860 rMbps: 1.13 fctMs: 654 abytes: 2024820 aMbps: 1.126 sndrttMs 166.2 rcdrttMs 168.5 s_util: 8.82 r_util: 8.82 onperc: 14.4
+conn: 5 rbytes: 3250840 rMbps: 1.47 fctMs: 984 abytes: 3250800 aMbps: 1.468 sndrttMs 167.4 rcdrttMs 166.8 s_util: 9.08 r_util: 9.08 onperc: 17.7
+conn: 6 rbytes: 1314220 rMbps: 0.94 fctMs: 745 abytes: 1311660 aMbps: 0.939 sndrttMs 159.5 rcdrttMs 163.5 s_util: 8.68 r_util: 8.68 onperc: 11.2
+conn: 7 rbytes: 1548580 rMbps: 0.66 fctMs: 1448 abytes: 1548540 aMbps: 0.658 sndrttMs 153.7 rcdrttMs 155.3 s_util: 8.36 r_util: 8.36 onperc: 18.8
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x560aaa935d60 resizing timestamp table
+0x560aaa92eed0 resizing timestamp table
+0x560aaa92eed0 resizing timestamp table
+0x560aaa8fb0e0 resizing timestamp table
+0x560aaa8fb0e0 resizing timestamp table
+0x560aaa910310 resizing timestamp table
+0x560aaa920560 resizing timestamp table
+0x560aaa927e50 resizing timestamp table
+0x560aaa927e50 resizing timestamp table
+0x560aaa920560 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1767820 rMbps: 0.99 fctMs: 753 abytes: 1767780 aMbps: 0.988 sndrttMs 162.1 rcdrttMs 164.9 s_util: 8.72 r_util: 8.72 onperc: 14.3
+conn: 1 rbytes: 1852240 rMbps: 1.32 fctMs: 932 abytes: 1852200 aMbps: 1.325 sndrttMs 164.1 rcdrttMs 166.8 s_util: 9.00 r_util: 9.00 onperc: 11.2
+conn: 2 rbytes: 2050060 rMbps: 0.72 fctMs: 1623 abytes: 2050020 aMbps: 0.722 sndrttMs 155.1 rcdrttMs 154.7 s_util: 8.44 r_util: 8.44 onperc: 22.7
+conn: 3 rbytes: 1711120 rMbps: 0.83 fctMs: 691 abytes: 1711080 aMbps: 0.825 sndrttMs 159.3 rcdrttMs 162.1 s_util: 8.55 r_util: 8.55 onperc: 16.6
+conn: 4 rbytes: 2627140 rMbps: 1.24 fctMs: 810 abytes: 2627100 aMbps: 1.236 sndrttMs 163.2 rcdrttMs 165.7 s_util: 8.93 r_util: 8.93 onperc: 17.0
+conn: 5 rbytes: 1751440 rMbps: 0.60 fctMs: 1658 abytes: 1751400 aMbps: 0.604 sndrttMs 153.6 rcdrttMs 152.8 s_util: 8.28 r_util: 8.28 onperc: 23.2
+conn: 6 rbytes: 1381000 rMbps: 0.77 fctMs: 687 abytes: 1380960 aMbps: 0.766 sndrttMs 158.3 rcdrttMs 162.5 s_util: 8.48 r_util: 8.48 onperc: 14.4
+conn: 7 rbytes: 3100900 rMbps: 0.90 fctMs: 1449 abytes: 3100860 aMbps: 0.901 sndrttMs 161.7 rcdrttMs 162.4 s_util: 8.63 r_util: 8.63 onperc: 27.5
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x556ff8880310 resizing timestamp table
+0x556ff88acdb0 resizing timestamp table
+0x556ff88acdb0 resizing timestamp table
+0x556ff8897e50 resizing timestamp table
+0x556ff8890560 resizing timestamp table
+0x556ff886b0e0 resizing timestamp table
+0x556ff88a5d60 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2260480 rMbps: 1.09 fctMs: 720 abytes: 2250360 aMbps: 1.087 sndrttMs 168.9 rcdrttMs 172.6 s_util: 8.77 r_util: 8.77 onperc: 16.6
+conn: 1 rbytes: 1294060 rMbps: 0.63 fctMs: 866 abytes: 1294020 aMbps: 0.629 sndrttMs 160.4 rcdrttMs 159.1 s_util: 8.27 r_util: 8.27 onperc: 16.4
+conn: 2 rbytes: 1815700 rMbps: 0.73 fctMs: 1178 abytes: 1815660 aMbps: 0.725 sndrttMs 156.0 rcdrttMs 158.1 s_util: 8.44 r_util: 8.44 onperc: 20.0
+conn: 3 rbytes: 2932060 rMbps: 1.24 fctMs: 824 abytes: 2932020 aMbps: 1.238 sndrttMs 168.7 rcdrttMs 170.0 s_util: 8.90 r_util: 8.90 onperc: 18.9
+conn: 4 rbytes: 2806060 rMbps: 1.28 fctMs: 799 abytes: 2806020 aMbps: 1.278 sndrttMs 169.6 rcdrttMs 169.0 s_util: 8.93 r_util: 8.93 onperc: 17.6
+conn: 5 rbytes: 1635520 rMbps: 0.75 fctMs: 1093 abytes: 1635480 aMbps: 0.748 sndrttMs 157.8 rcdrttMs 159.0 s_util: 8.46 r_util: 8.46 onperc: 17.5
+conn: 6 rbytes: 1068520 rMbps: 0.86 fctMs: 710 abytes: 1058400 aMbps: 0.852 sndrttMs 162.2 rcdrttMs 164.1 s_util: 8.57 r_util: 8.58 onperc: 9.9
+conn: 7 rbytes: 3354160 rMbps: 1.47 fctMs: 868 abytes: 3354120 aMbps: 1.472 sndrttMs 181.3 rcdrttMs 180.7 s_util: 9.00 r_util: 9.00 onperc: 18.2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x5561f01f6e50 resizing timestamp table
+0x5561f01ef560 resizing timestamp table
+0x5561f01ef560 resizing timestamp table
+0x5561f020bdb0 resizing timestamp table
+0x5561f01ca0e0 resizing timestamp table
+0x5561f01fded0 resizing timestamp table
+0x5561f01ca0e0 resizing timestamp table
+0x5561f020bdb0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2265520 rMbps: 0.66 fctMs: 1242 abytes: 2265480 aMbps: 0.663 sndrttMs 159.2 rcdrttMs 160.5 s_util: 8.33 r_util: 8.33 onperc: 27.3
+conn: 1 rbytes: 3145000 rMbps: 1.26 fctMs: 739 abytes: 3144960 aMbps: 1.261 sndrttMs 169.9 rcdrttMs 171.8 s_util: 8.91 r_util: 8.91 onperc: 20.0
+conn: 2 rbytes: 1883740 rMbps: 1.05 fctMs: 797 abytes: 1883700 aMbps: 1.051 sndrttMs 164.8 rcdrttMs 166.2 s_util: 8.76 r_util: 8.76 onperc: 14.3
+conn: 3 rbytes: 1796800 rMbps: 1.11 fctMs: 860 abytes: 1796760 aMbps: 1.114 sndrttMs 162.6 rcdrttMs 166.6 s_util: 8.83 r_util: 8.83 onperc: 12.9
+conn: 4 rbytes: 1885000 rMbps: 0.58 fctMs: 1531 abytes: 1884960 aMbps: 0.579 sndrttMs 154.4 rcdrttMs 155.2 s_util: 8.23 r_util: 8.23 onperc: 26.0
+conn: 5 rbytes: 1620400 rMbps: 0.67 fctMs: 1488 abytes: 1620360 aMbps: 0.670 sndrttMs 156.1 rcdrttMs 156.5 s_util: 8.36 r_util: 8.36 onperc: 19.3
+conn: 6 rbytes: 3507880 rMbps: 1.36 fctMs: 825 abytes: 3495240 aMbps: 1.356 sndrttMs 167.7 rcdrttMs 169.5 s_util: 9.00 r_util: 9.00 onperc: 20.6
+conn: 7 rbytes: 1985800 rMbps: 0.95 fctMs: 798 abytes: 1985760 aMbps: 0.948 sndrttMs 160.5 rcdrttMs 164.1 s_util: 8.68 r_util: 8.68 onperc: 16.8
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x5578a0ceddb0 resizing timestamp table
+0x5578a0cc1310 resizing timestamp table
+0x5578a0cac0e0 resizing timestamp table
+0x5578a0ce6d60 resizing timestamp table
+0x5578a0cc1310 resizing timestamp table
+0x5578a0ccae80 resizing timestamp table
+0x5578a0cd1560 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1953040 rMbps: 1.18 fctMs: 881 abytes: 1953000 aMbps: 1.183 sndrttMs 165.2 rcdrttMs 167.7 s_util: 8.88 r_util: 8.88 onperc: 13.2
+conn: 1 rbytes: 1176880 rMbps: 1.11 fctMs: 655 abytes: 1176840 aMbps: 1.105 sndrttMs 171.6 rcdrttMs 170.2 s_util: 8.77 r_util: 8.77 onperc: 8.5
+conn: 2 rbytes: 1803100 rMbps: 1.09 fctMs: 824 abytes: 1803060 aMbps: 1.094 sndrttMs 161.9 rcdrttMs 165.6 s_util: 8.82 r_util: 8.82 onperc: 13.2
+conn: 3 rbytes: 1767820 rMbps: 0.85 fctMs: 920 abytes: 1767780 aMbps: 0.854 sndrttMs 160.3 rcdrttMs 162.0 s_util: 8.58 r_util: 8.58 onperc: 16.6
+conn: 4 rbytes: 2443180 rMbps: 0.86 fctMs: 1142 abytes: 2443140 aMbps: 0.856 sndrttMs 158.6 rcdrttMs 160.7 s_util: 8.59 r_util: 8.59 onperc: 22.8
+conn: 5 rbytes: 1024420 rMbps: 0.63 fctMs: 718 abytes: 1024380 aMbps: 0.634 sndrttMs 160.7 rcdrttMs 164.7 s_util: 8.28 r_util: 8.28 onperc: 12.9
+conn: 6 rbytes: 1774120 rMbps: 0.79 fctMs: 819 abytes: 1774080 aMbps: 0.787 sndrttMs 164.0 rcdrttMs 168.5 s_util: 8.48 r_util: 8.48 onperc: 18.0
+conn: 7 rbytes: 2400340 rMbps: 1.21 fctMs: 796 abytes: 2400300 aMbps: 1.205 sndrttMs 168.9 rcdrttMs 170.6 s_util: 8.87 r_util: 8.87 onperc: 15.9
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x557cf90f2e50 resizing timestamp table
+0x557cf90eb560 resizing timestamp table
+0x557cf9100d60 resizing timestamp table
+0x557cf9107db0 resizing timestamp table
+0x557cf90f9ed0 resizing timestamp table
+0x557cf90db310 resizing timestamp table
+0x557cf90db310 resizing timestamp table
+0x557cf90e4e80 resizing timestamp table
+0x557cf90c60e0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 3170200 rMbps: 1.16 fctMs: 840 abytes: 3167640 aMbps: 1.161 sndrttMs 171.0 rcdrttMs 172.4 s_util: 8.82 r_util: 8.82 onperc: 21.8
+conn: 1 rbytes: 1551100 rMbps: 0.97 fctMs: 749 abytes: 1551060 aMbps: 0.974 sndrttMs 160.7 rcdrttMs 164.6 s_util: 8.71 r_util: 8.71 onperc: 12.7
+conn: 2 rbytes: 1583860 rMbps: 0.98 fctMs: 764 abytes: 1583820 aMbps: 0.976 sndrttMs 172.3 rcdrttMs 174.5 s_util: 8.64 r_util: 8.64 onperc: 13.0
+conn: 3 rbytes: 1134040 rMbps: 0.56 fctMs: 1252 abytes: 1134000 aMbps: 0.558 sndrttMs 156.2 rcdrttMs 157.4 s_util: 8.18 r_util: 8.18 onperc: 16.3
+conn: 4 rbytes: 2085340 rMbps: 0.94 fctMs: 810 abytes: 2085300 aMbps: 0.936 sndrttMs 159.9 rcdrttMs 162.8 s_util: 8.68 r_util: 8.68 onperc: 17.8
+conn: 5 rbytes: 1343200 rMbps: 0.66 fctMs: 964 abytes: 1343160 aMbps: 0.656 sndrttMs 157.2 rcdrttMs 158.8 s_util: 8.34 r_util: 8.34 onperc: 16.4
+conn: 6 rbytes: 1476760 rMbps: 1.27 fctMs: 777 abytes: 1476720 aMbps: 1.268 sndrttMs 165.6 rcdrttMs 167.1 s_util: 8.94 r_util: 8.94 onperc: 9.3
+conn: 7 rbytes: 1140340 rMbps: 0.75 fctMs: 715 abytes: 1140300 aMbps: 0.750 sndrttMs 160.1 rcdrttMs 161.7 s_util: 8.45 r_util: 8.45 onperc: 12.2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x557fa019ae80 resizing timestamp table
+0x557fa01bddb0 resizing timestamp table
+0x557fa017c0e0 resizing timestamp table
+0x557fa017c0e0 resizing timestamp table
+0x557fa0191310 resizing timestamp table
+0x557fa01b6d60 resizing timestamp table
+0x557fa01a8e50 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1984540 rMbps: 1.33 fctMs: 795 abytes: 1984500 aMbps: 1.331 sndrttMs 192.0 rcdrttMs 191.0 s_util: 8.84 r_util: 8.84 onperc: 11.9
+conn: 1 rbytes: 2903080 rMbps: 1.36 fctMs: 813 abytes: 2903040 aMbps: 1.360 sndrttMs 164.4 rcdrttMs 168.8 s_util: 9.02 r_util: 9.02 onperc: 17.1
+conn: 2 rbytes: 3088300 rMbps: 1.24 fctMs: 907 abytes: 3088260 aMbps: 1.238 sndrttMs 164.1 rcdrttMs 166.5 s_util: 8.93 r_util: 8.93 onperc: 20.0
+conn: 3 rbytes: 1059700 rMbps: 0.58 fctMs: 919 abytes: 1059660 aMbps: 0.576 sndrttMs 156.7 rcdrttMs 158.2 s_util: 8.21 r_util: 8.21 onperc: 14.7
+conn: 4 rbytes: 1048360 rMbps: 0.73 fctMs: 719 abytes: 1048320 aMbps: 0.729 sndrttMs 159.1 rcdrttMs 163.4 s_util: 8.43 r_util: 8.43 onperc: 11.5
+conn: 5 rbytes: 2106760 rMbps: 1.23 fctMs: 912 abytes: 2106720 aMbps: 1.232 sndrttMs 162.8 rcdrttMs 167.0 s_util: 8.93 r_util: 8.93 onperc: 13.7
+conn: 6 rbytes: 1922800 rMbps: 0.88 fctMs: 674 abytes: 1922760 aMbps: 0.878 sndrttMs 161.5 rcdrttMs 163.9 s_util: 8.60 r_util: 8.60 onperc: 17.5
+conn: 7 rbytes: 2300800 rMbps: 0.96 fctMs: 764 abytes: 2300760 aMbps: 0.963 sndrttMs 162.1 rcdrttMs 164.5 s_util: 8.69 r_util: 8.69 onperc: 19.1
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x563e03698db0 resizing timestamp table
+0x563e03698db0 resizing timestamp table
+0x563e0367c560 resizing timestamp table
+0x563e036570e0 resizing timestamp table
+0x563e036570e0 resizing timestamp table
+0x563e036570e0 resizing timestamp table
+0x563e0366c310 resizing timestamp table
+0x563e0368aed0 resizing timestamp table
+0x563e03675e80 resizing timestamp table
+0x563e03691d60 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1411240 rMbps: 0.86 fctMs: 726 abytes: 1411200 aMbps: 0.863 sndrttMs 160.4 rcdrttMs 163.4 s_util: 8.59 r_util: 8.59 onperc: 13.1
+conn: 1 rbytes: 1071040 rMbps: 0.84 fctMs: 784 abytes: 1071000 aMbps: 0.841 sndrttMs 158.8 rcdrttMs 162.1 s_util: 8.57 r_util: 8.57 onperc: 10.2
+conn: 2 rbytes: 3504100 rMbps: 1.44 fctMs: 845 abytes: 3499020 aMbps: 1.441 sndrttMs 165.5 rcdrttMs 168.8 s_util: 9.07 r_util: 9.07 onperc: 19.4
+conn: 3 rbytes: 2783380 rMbps: 1.07 fctMs: 829 abytes: 2783340 aMbps: 1.074 sndrttMs 164.2 rcdrttMs 165.8 s_util: 8.79 r_util: 8.79 onperc: 20.7
+conn: 4 rbytes: 1329340 rMbps: 0.92 fctMs: 720 abytes: 1329300 aMbps: 0.924 sndrttMs 161.0 rcdrttMs 163.3 s_util: 8.65 r_util: 8.65 onperc: 11.5
+conn: 5 rbytes: 3288640 rMbps: 1.43 fctMs: 922 abytes: 3288600 aMbps: 1.426 sndrttMs 166.5 rcdrttMs 168.7 s_util: 9.06 r_util: 9.06 onperc: 18.4
+conn: 6 rbytes: 1728760 rMbps: 0.80 fctMs: 663 abytes: 1728720 aMbps: 0.802 sndrttMs 160.4 rcdrttMs 163.6 s_util: 8.52 r_util: 8.52 onperc: 17.2
+conn: 7 rbytes: 1548580 rMbps: 0.88 fctMs: 832 abytes: 1548540 aMbps: 0.876 sndrttMs 163.6 rcdrttMs 166.2 s_util: 8.59 r_util: 8.59 onperc: 14.1
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x56244e703ed0 resizing timestamp table
+0x56244e6fce50 resizing timestamp table
+0x56244e6eee80 resizing timestamp table
+0x56244e70ad60 resizing timestamp table
+0x56244e6d00e0 resizing timestamp table
+0x56244e6f5560 resizing timestamp table
+0x56244e6f5560 resizing timestamp table
+0x56244e703ed0 resizing timestamp table
+0x56244e711db0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1701040 rMbps: 0.77 fctMs: 772 abytes: 1701000 aMbps: 0.767 sndrttMs 158.6 rcdrttMs 160.6 s_util: 8.48 r_util: 8.48 onperc: 17.7
+conn: 1 rbytes: 2162200 rMbps: 1.13 fctMs: 848 abytes: 2162160 aMbps: 1.133 sndrttMs 165.2 rcdrttMs 167.1 s_util: 8.83 r_util: 8.83 onperc: 15.3
+conn: 2 rbytes: 1404940 rMbps: 1.01 fctMs: 795 abytes: 1404900 aMbps: 1.010 sndrttMs 163.7 rcdrttMs 166.5 s_util: 8.73 r_util: 8.73 onperc: 11.1
+conn: 3 rbytes: 1979500 rMbps: 0.55 fctMs: 1509 abytes: 1979460 aMbps: 0.552 sndrttMs 153.3 rcdrttMs 154.0 s_util: 8.19 r_util: 8.19 onperc: 28.7
+conn: 4 rbytes: 2246620 rMbps: 1.23 fctMs: 861 abytes: 2246580 aMbps: 1.227 sndrttMs 167.3 rcdrttMs 171.0 s_util: 8.90 r_util: 8.90 onperc: 14.6
+conn: 5 rbytes: 1948000 rMbps: 1.27 fctMs: 818 abytes: 1947960 aMbps: 1.270 sndrttMs 164.8 rcdrttMs 167.3 s_util: 8.95 r_util: 8.95 onperc: 12.3
+conn: 6 rbytes: 1699780 rMbps: 0.53 fctMs: 1348 abytes: 1699740 aMbps: 0.531 sndrttMs 153.5 rcdrttMs 154.2 s_util: 8.15 r_util: 8.15 onperc: 25.6
+conn: 7 rbytes: 2310880 rMbps: 1.20 fctMs: 809 abytes: 2310840 aMbps: 1.203 sndrttMs 168.9 rcdrttMs 171.6 s_util: 8.87 r_util: 8.87 onperc: 15.4
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x5573f4e40ed0 resizing timestamp table
+0x5573f4e4edb0 resizing timestamp table
+0x5573f4e22310 resizing timestamp table
+0x5573f4e22310 resizing timestamp table
+0x5573f4e39e50 resizing timestamp table
+0x5573f4e2be80 resizing timestamp table
+0x5573f4e4edb0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1514560 rMbps: 0.91 fctMs: 742 abytes: 1514520 aMbps: 0.907 sndrttMs 162.2 rcdrttMs 164.1 s_util: 8.63 r_util: 8.63 onperc: 13.4
+conn: 1 rbytes: 3419680 rMbps: 1.25 fctMs: 783 abytes: 3419640 aMbps: 1.247 sndrttMs 166.7 rcdrttMs 168.7 s_util: 8.92 r_util: 8.92 onperc: 21.9
+conn: 2 rbytes: 2525080 rMbps: 1.27 fctMs: 797 abytes: 2525040 aMbps: 1.267 sndrttMs 168.4 rcdrttMs 170.5 s_util: 8.93 r_util: 8.93 onperc: 15.9
+conn: 3 rbytes: 1285240 rMbps: 0.56 fctMs: 1219 abytes: 1285200 aMbps: 0.562 sndrttMs 156.2 rcdrttMs 157.6 s_util: 8.19 r_util: 8.19 onperc: 18.3
+conn: 4 rbytes: 2101720 rMbps: 0.88 fctMs: 795 abytes: 2092860 aMbps: 0.878 sndrttMs 164.1 rcdrttMs 167.0 s_util: 8.59 r_util: 8.59 onperc: 19.1
+conn: 5 rbytes: 1546060 rMbps: 0.88 fctMs: 778 abytes: 1546020 aMbps: 0.883 sndrttMs 161.4 rcdrttMs 163.9 s_util: 8.61 r_util: 8.61 onperc: 14.0
+conn: 6 rbytes: 1571260 rMbps: 1.02 fctMs: 687 abytes: 1571220 aMbps: 1.016 sndrttMs 161.8 rcdrttMs 165.2 s_util: 8.75 r_util: 8.75 onperc: 12.4
+conn: 7 rbytes: 2460820 rMbps: 0.71 fctMs: 1844 abytes: 2460780 aMbps: 0.712 sndrttMs 153.8 rcdrttMs 154.7 s_util: 8.44 r_util: 8.44 onperc: 27.7
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x55566ac59e80 resizing timestamp table
+0x55566ac59e80 resizing timestamp table
+0x55566ac60560 resizing timestamp table
+0x55566ac50310 resizing timestamp table
+0x55566ac50310 resizing timestamp table
+0x55566ac3b0e0 resizing timestamp table
+0x55566ac75d60 resizing timestamp table
+0x55566ac67e50 resizing timestamp table
+0x55566ac67e50 resizing timestamp table
+0x55566ac6eed0 resizing timestamp table
+0x55566ac6eed0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 2778340 rMbps: 0.77 fctMs: 1104 abytes: 2778300 aMbps: 0.774 sndrttMs 157.0 rcdrttMs 159.1 s_util: 8.50 r_util: 8.50 onperc: 28.7
+conn: 1 rbytes: 2394040 rMbps: 0.71 fctMs: 1680 abytes: 2394000 aMbps: 0.713 sndrttMs 154.1 rcdrttMs 155.5 s_util: 8.44 r_util: 8.44 onperc: 26.9
+conn: 2 rbytes: 903460 rMbps: 0.68 fctMs: 710 abytes: 903420 aMbps: 0.679 sndrttMs 157.9 rcdrttMs 161.4 s_util: 8.37 r_util: 8.37 onperc: 10.6
+conn: 3 rbytes: 1956820 rMbps: 1.10 fctMs: 792 abytes: 1956780 aMbps: 1.099 sndrttMs 164.2 rcdrttMs 166.2 s_util: 8.81 r_util: 8.81 onperc: 14.2
+conn: 4 rbytes: 1997140 rMbps: 0.99 fctMs: 1011 abytes: 1997100 aMbps: 0.988 sndrttMs 161.4 rcdrttMs 163.6 s_util: 8.72 r_util: 8.72 onperc: 16.2
+conn: 5 rbytes: 1698520 rMbps: 0.61 fctMs: 1175 abytes: 1698480 aMbps: 0.609 sndrttMs 156.5 rcdrttMs 158.5 s_util: 8.27 r_util: 8.27 onperc: 22.3
+conn: 6 rbytes: 1761520 rMbps: 1.08 fctMs: 812 abytes: 1761480 aMbps: 1.084 sndrttMs 162.9 rcdrttMs 165.6 s_util: 8.80 r_util: 8.80 onperc: 13.0
+conn: 7 rbytes: 1726240 rMbps: 1.36 fctMs: 782 abytes: 1723680 aMbps: 1.357 sndrttMs 175.3 rcdrttMs 174.8 s_util: 8.95 r_util: 8.96 onperc: 10.2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x561ae7cd1e50 resizing timestamp table
+0x561ae7cba310 resizing timestamp table
+0x561ae7cdfd60 resizing timestamp table
+0x561ae7cca560 resizing timestamp table
+0x561ae7ce6db0 resizing timestamp table
+0x561ae7ca50e0 resizing timestamp table
+0x561ae7ce6db0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1101280 rMbps: 0.75 fctMs: 985 abytes: 1101240 aMbps: 0.745 sndrttMs 159.7 rcdrttMs 161.0 s_util: 8.45 r_util: 8.45 onperc: 11.8
+conn: 1 rbytes: 1595200 rMbps: 1.25 fctMs: 788 abytes: 1595160 aMbps: 1.245 sndrttMs 162.7 rcdrttMs 166.8 s_util: 8.94 r_util: 8.94 onperc: 10.2
+conn: 2 rbytes: 2251660 rMbps: 1.38 fctMs: 814 abytes: 2251620 aMbps: 1.382 sndrttMs 169.4 rcdrttMs 169.8 s_util: 9.01 r_util: 9.01 onperc: 13.0
+conn: 3 rbytes: 1363360 rMbps: 0.49 fctMs: 1245 abytes: 1363320 aMbps: 0.487 sndrttMs 154.9 rcdrttMs 155.5 s_util: 8.05 r_util: 8.05 onperc: 22.4
+conn: 4 rbytes: 1326820 rMbps: 0.85 fctMs: 779 abytes: 1326780 aMbps: 0.852 sndrttMs 159.3 rcdrttMs 162.1 s_util: 8.58 r_util: 8.58 onperc: 12.5
+conn: 5 rbytes: 2341120 rMbps: 1.23 fctMs: 846 abytes: 2341080 aMbps: 1.229 sndrttMs 167.1 rcdrttMs 170.2 s_util: 8.90 r_util: 8.90 onperc: 15.2
+conn: 6 rbytes: 2399080 rMbps: 1.36 fctMs: 829 abytes: 2399040 aMbps: 1.363 sndrttMs 164.7 rcdrttMs 168.4 s_util: 9.02 r_util: 9.02 onperc: 14.1
+conn: 7 rbytes: 1568740 rMbps: 0.90 fctMs: 661 abytes: 1568700 aMbps: 0.904 sndrttMs 163.6 rcdrttMs 166.1 s_util: 8.62 r_util: 8.62 onperc: 13.9
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x561d4a40ee80 resizing timestamp table
+0x561d4a40ee80 resizing timestamp table
+0x561d4a42ad60 resizing timestamp table
+0x561d4a405310 resizing timestamp table
+0x561d4a423ed0 resizing timestamp table
+0x561d4a431db0 resizing timestamp table
+0x561d4a423ed0 resizing timestamp table
+0x561d4a41ce50 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1384780 rMbps: 1.03 fctMs: 769 abytes: 1384740 aMbps: 1.030 sndrttMs 161.5 rcdrttMs 163.9 s_util: 8.76 r_util: 8.76 onperc: 10.8
+conn: 1 rbytes: 597280 rMbps: 0.62 fctMs: 645 abytes: 597240 aMbps: 0.617 sndrttMs 155.8 rcdrttMs 157.5 s_util: 8.28 r_util: 8.28 onperc: 7.7
+conn: 2 rbytes: 1605280 rMbps: 0.69 fctMs: 850 abytes: 1596420 aMbps: 0.683 sndrttMs 157.3 rcdrttMs 160.0 s_util: 8.38 r_util: 8.38 onperc: 18.7
+conn: 3 rbytes: 2319700 rMbps: 1.28 fctMs: 903 abytes: 2319660 aMbps: 1.284 sndrttMs 163.4 rcdrttMs 165.0 s_util: 8.97 r_util: 8.97 onperc: 14.5
+conn: 4 rbytes: 1335640 rMbps: 0.76 fctMs: 738 abytes: 1335600 aMbps: 0.762 sndrttMs 157.6 rcdrttMs 159.9 s_util: 8.48 r_util: 8.48 onperc: 14.0
+conn: 5 rbytes: 1441480 rMbps: 0.91 fctMs: 795 abytes: 1441440 aMbps: 0.907 sndrttMs 162.6 rcdrttMs 165.5 s_util: 8.63 r_util: 8.63 onperc: 12.7
+conn: 6 rbytes: 1721200 rMbps: 1.07 fctMs: 755 abytes: 1718640 aMbps: 1.072 sndrttMs 163.4 rcdrttMs 166.8 s_util: 8.79 r_util: 8.79 onperc: 12.8
+conn: 7 rbytes: 1321780 rMbps: 1.01 fctMs: 700 abytes: 1321740 aMbps: 1.007 sndrttMs 164.4 rcdrttMs 166.6 s_util: 8.72 r_util: 8.72 onperc: 10.5
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x555ae416eed0 resizing timestamp table
+0x555ae4175d60 resizing timestamp table
+0x555ae413b0e0 resizing timestamp table
+0x555ae417cdb0 resizing timestamp table
+0x555ae4160560 resizing timestamp table
+0x555ae4159e80 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 1471720 rMbps: 0.88 fctMs: 838 abytes: 1471680 aMbps: 0.878 sndrttMs 161.8 rcdrttMs 163.9 s_util: 8.60 r_util: 8.60 onperc: 13.4
+conn: 1 rbytes: 2526340 rMbps: 1.57 fctMs: 918 abytes: 2526300 aMbps: 1.572 sndrttMs 170.4 rcdrttMs 169.7 s_util: 9.13 r_util: 9.13 onperc: 12.9
+conn: 2 rbytes: 1728760 rMbps: 0.60 fctMs: 1432 abytes: 1728720 aMbps: 0.603 sndrttMs 155.8 rcdrttMs 157.0 s_util: 8.26 r_util: 8.26 onperc: 22.9
+conn: 3 rbytes: 1469200 rMbps: 0.87 fctMs: 751 abytes: 1469160 aMbps: 0.869 sndrttMs 159.3 rcdrttMs 161.5 s_util: 8.60 r_util: 8.60 onperc: 13.5
+conn: 4 rbytes: 2386480 rMbps: 1.18 fctMs: 772 abytes: 2386440 aMbps: 1.178 sndrttMs 164.7 rcdrttMs 167.8 s_util: 8.88 r_util: 8.88 onperc: 16.2
+conn: 5 rbytes: 1513300 rMbps: 1.00 fctMs: 810 abytes: 1513260 aMbps: 0.996 sndrttMs 164.3 rcdrttMs 165.2 s_util: 8.71 r_util: 8.71 onperc: 12.1
+conn: 6 rbytes: 2168500 rMbps: 1.13 fctMs: 963 abytes: 2168460 aMbps: 1.126 sndrttMs 165.4 rcdrttMs 170.0 s_util: 8.83 r_util: 8.83 onperc: 15.4
+conn: 7 rbytes: 1794280 rMbps: 1.21 fctMs: 700 abytes: 1794240 aMbps: 1.206 sndrttMs 167.6 rcdrttMs 168.0 s_util: 8.88 r_util: 8.88 onperc: 11.9
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x558846fff310 resizing timestamp table
+0x558847016e50 resizing timestamp table
+0x558847016e50 resizing timestamp table
+0x558847024d60 resizing timestamp table
+0x55884701ded0 resizing timestamp table
+0x558847024d60 resizing timestamp table
+0x55884702bdb0 resizing timestamp table
+0x558846fea0e0 resizing timestamp table
+0x55884700f560 resizing timestamp table
+0x558846fff310 resizing timestamp table
+0x55884702bdb0 resizing timestamp table
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb

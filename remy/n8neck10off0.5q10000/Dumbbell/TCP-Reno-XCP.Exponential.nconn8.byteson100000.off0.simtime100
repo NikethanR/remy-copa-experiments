@@ -1,0 +1,90 @@
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 6941380 rMbps: 0.89 fctMs: 817 abytes: 6941340 aMbps: 0.894 sndrttMs 160.6 rcdrttMs 165.2 s_util: 8.62 r_util: 8.62 onperc: 62.1
+conn: 1 rbytes: 5801080 rMbps: 0.78 fctMs: 805 abytes: 5801040 aMbps: 0.779 sndrttMs 161.4 rcdrttMs 164.2 s_util: 8.48 r_util: 8.48 onperc: 59.6
+conn: 2 rbytes: 8329900 rMbps: 1.05 fctMs: 883 abytes: 8329860 aMbps: 1.048 sndrttMs 162.8 rcdrttMs 167.1 s_util: 8.77 r_util: 8.77 onperc: 63.6
+conn: 3 rbytes: 7212280 rMbps: 0.96 fctMs: 922 abytes: 7212240 aMbps: 0.962 sndrttMs 161.2 rcdrttMs 162.8 s_util: 8.69 r_util: 8.69 onperc: 60.0
+conn: 4 rbytes: 7611700 rMbps: 1.02 fctMs: 819 abytes: 7605360 aMbps: 1.017 sndrttMs 161.9 rcdrttMs 165.1 s_util: 8.75 r_util: 8.75 onperc: 59.8
+conn: 5 rbytes: 7555000 rMbps: 0.95 fctMs: 778 abytes: 7554960 aMbps: 0.947 sndrttMs 160.9 rcdrttMs 164.5 s_util: 8.68 r_util: 8.68 onperc: 63.8
+conn: 6 rbytes: 8852800 rMbps: 1.10 fctMs: 873 abytes: 8852760 aMbps: 1.096 sndrttMs 162.5 rcdrttMs 165.1 s_util: 8.82 r_util: 8.82 onperc: 64.6
+conn: 7 rbytes: 8341240 rMbps: 1.10 fctMs: 800 abytes: 8341200 aMbps: 1.098 sndrttMs 164.2 rcdrttMs 168.1 s_util: 8.81 r_util: 8.81 onperc: 60.8
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 6901060 rMbps: 0.92 fctMs: 855 abytes: 6901020 aMbps: 0.922 sndrttMs 161.6 rcdrttMs 164.0 s_util: 8.65 r_util: 8.65 onperc: 59.9
+conn: 1 rbytes: 7294180 rMbps: 0.94 fctMs: 809 abytes: 7294140 aMbps: 0.936 sndrttMs 163.2 rcdrttMs 166.9 s_util: 8.65 r_util: 8.65 onperc: 62.3
+conn: 2 rbytes: 7358440 rMbps: 0.93 fctMs: 783 abytes: 7358400 aMbps: 0.928 sndrttMs 162.8 rcdrttMs 165.7 s_util: 8.65 r_util: 8.65 onperc: 63.4
+conn: 3 rbytes: 8038840 rMbps: 1.05 fctMs: 768 abytes: 8003520 aMbps: 1.042 sndrttMs 161.8 rcdrttMs 166.2 s_util: 8.77 r_util: 8.77 onperc: 61.4
+conn: 4 rbytes: 8440780 rMbps: 1.00 fctMs: 955 abytes: 8406720 aMbps: 0.992 sndrttMs 161.7 rcdrttMs 164.0 s_util: 8.72 r_util: 8.73 onperc: 67.8
+conn: 5 rbytes: 7582720 rMbps: 0.96 fctMs: 856 abytes: 7582680 aMbps: 0.957 sndrttMs 163.1 rcdrttMs 166.4 s_util: 8.68 r_util: 8.68 onperc: 63.4
+conn: 6 rbytes: 8856580 rMbps: 1.07 fctMs: 895 abytes: 8856540 aMbps: 1.070 sndrttMs 160.8 rcdrttMs 164.4 s_util: 8.80 r_util: 8.80 onperc: 66.2
+conn: 7 rbytes: 8652460 rMbps: 1.01 fctMs: 846 abytes: 8651160 aMbps: 1.010 sndrttMs 161.3 rcdrttMs 164.8 s_util: 8.74 r_util: 8.74 onperc: 68.5
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 7567600 rMbps: 1.01 fctMs: 769 abytes: 7556220 aMbps: 1.008 sndrttMs 162.1 rcdrttMs 165.5 s_util: 8.74 r_util: 8.74 onperc: 59.9
+conn: 1 rbytes: 7150540 rMbps: 0.93 fctMs: 838 abytes: 7130340 aMbps: 0.932 sndrttMs 162.0 rcdrttMs 164.5 s_util: 8.66 r_util: 8.66 onperc: 61.2
+conn: 2 rbytes: 6427300 rMbps: 0.85 fctMs: 857 abytes: 6427260 aMbps: 0.845 sndrttMs 160.1 rcdrttMs 162.5 s_util: 8.57 r_util: 8.57 onperc: 60.8
+conn: 3 rbytes: 7407580 rMbps: 0.99 fctMs: 746 abytes: 7391160 aMbps: 0.991 sndrttMs 160.9 rcdrttMs 163.5 s_util: 8.73 r_util: 8.73 onperc: 59.7
+conn: 4 rbytes: 7241260 rMbps: 0.92 fctMs: 870 abytes: 7241220 aMbps: 0.925 sndrttMs 161.0 rcdrttMs 164.9 s_util: 8.66 r_util: 8.66 onperc: 62.6
+conn: 5 rbytes: 9460120 rMbps: 1.20 fctMs: 818 abytes: 9460080 aMbps: 1.201 sndrttMs 160.0 rcdrttMs 163.5 s_util: 8.92 r_util: 8.92 onperc: 63.0
+conn: 6 rbytes: 8691520 rMbps: 1.09 fctMs: 837 abytes: 8659980 aMbps: 1.089 sndrttMs 160.6 rcdrttMs 164.4 s_util: 8.82 r_util: 8.83 onperc: 63.6
+conn: 7 rbytes: 6820420 rMbps: 0.91 fctMs: 818 abytes: 6820380 aMbps: 0.914 sndrttMs 159.9 rcdrttMs 164.2 s_util: 8.65 r_util: 8.65 onperc: 59.7
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 7687300 rMbps: 1.02 fctMs: 904 abytes: 7686000 aMbps: 1.015 sndrttMs 158.7 rcdrttMs 161.6 s_util: 8.76 r_util: 8.76 onperc: 60.6
+conn: 1 rbytes: 9379480 rMbps: 1.11 fctMs: 902 abytes: 9379440 aMbps: 1.109 sndrttMs 160.7 rcdrttMs 164.6 s_util: 8.84 r_util: 8.84 onperc: 67.7
+conn: 2 rbytes: 7263940 rMbps: 0.89 fctMs: 816 abytes: 7262640 aMbps: 0.890 sndrttMs 160.5 rcdrttMs 163.4 s_util: 8.62 r_util: 8.62 onperc: 65.3
+conn: 3 rbytes: 7870000 rMbps: 1.03 fctMs: 909 abytes: 7835940 aMbps: 1.029 sndrttMs 160.6 rcdrttMs 164.3 s_util: 8.77 r_util: 8.77 onperc: 60.9
+conn: 4 rbytes: 9084640 rMbps: 1.11 fctMs: 872 abytes: 9084600 aMbps: 1.111 sndrttMs 160.0 rcdrttMs 162.7 s_util: 8.85 r_util: 8.85 onperc: 65.4
+conn: 5 rbytes: 7688560 rMbps: 0.95 fctMs: 879 abytes: 7688520 aMbps: 0.946 sndrttMs 160.4 rcdrttMs 161.9 s_util: 8.68 r_util: 8.68 onperc: 65.0
+conn: 6 rbytes: 7049740 rMbps: 0.87 fctMs: 788 abytes: 7049700 aMbps: 0.872 sndrttMs 161.1 rcdrttMs 164.1 s_util: 8.60 r_util: 8.60 onperc: 64.6
+conn: 7 rbytes: 8560480 rMbps: 1.04 fctMs: 898 abytes: 8540280 aMbps: 1.042 sndrttMs 160.8 rcdrttMs 164.1 s_util: 8.78 r_util: 8.78 onperc: 65.5
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 8609620 rMbps: 1.07 fctMs: 849 abytes: 8609580 aMbps: 1.068 sndrttMs 161.3 rcdrttMs 165.1 s_util: 8.80 r_util: 8.80 onperc: 64.5
+conn: 1 rbytes: 6345400 rMbps: 0.87 fctMs: 793 abytes: 6345360 aMbps: 0.865 sndrttMs 161.9 rcdrttMs 164.2 s_util: 8.58 r_util: 8.58 onperc: 58.7
+conn: 2 rbytes: 8665060 rMbps: 1.04 fctMs: 802 abytes: 8665020 aMbps: 1.042 sndrttMs 161.4 rcdrttMs 164.6 s_util: 8.77 r_util: 8.77 onperc: 66.5
+conn: 3 rbytes: 7722580 rMbps: 0.99 fctMs: 866 abytes: 7722540 aMbps: 0.991 sndrttMs 160.9 rcdrttMs 163.6 s_util: 8.73 r_util: 8.73 onperc: 62.4
+conn: 4 rbytes: 6838060 rMbps: 0.85 fctMs: 853 abytes: 6838020 aMbps: 0.855 sndrttMs 162.2 rcdrttMs 164.5 s_util: 8.57 r_util: 8.57 onperc: 64.0
+conn: 5 rbytes: 7503340 rMbps: 0.91 fctMs: 741 abytes: 7502040 aMbps: 0.910 sndrttMs 161.8 rcdrttMs 164.8 s_util: 8.63 r_util: 8.63 onperc: 66.0
+conn: 6 rbytes: 7538620 rMbps: 0.97 fctMs: 832 abytes: 7537320 aMbps: 0.967 sndrttMs 161.5 rcdrttMs 165.8 s_util: 8.70 r_util: 8.70 onperc: 62.4
+conn: 7 rbytes: 7999780 rMbps: 0.98 fctMs: 803 abytes: 7999740 aMbps: 0.984 sndrttMs 161.4 rcdrttMs 162.9 s_util: 8.72 r_util: 8.72 onperc: 65.0
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 9063220 rMbps: 1.08 fctMs: 910 abytes: 9063180 aMbps: 1.076 sndrttMs 161.2 rcdrttMs 165.3 s_util: 8.81 r_util: 8.81 onperc: 67.4
+conn: 1 rbytes: 7192120 rMbps: 0.87 fctMs: 933 abytes: 7190820 aMbps: 0.868 sndrttMs 161.2 rcdrttMs 163.4 s_util: 8.59 r_util: 8.59 onperc: 66.3
+conn: 2 rbytes: 7345840 rMbps: 0.97 fctMs: 895 abytes: 7345800 aMbps: 0.966 sndrttMs 161.4 rcdrttMs 164.9 s_util: 8.70 r_util: 8.70 onperc: 60.8
+conn: 3 rbytes: 8782240 rMbps: 1.02 fctMs: 837 abytes: 8782200 aMbps: 1.023 sndrttMs 161.5 rcdrttMs 164.5 s_util: 8.75 r_util: 8.75 onperc: 68.7
+conn: 4 rbytes: 8666320 rMbps: 1.09 fctMs: 1012 abytes: 8666280 aMbps: 1.087 sndrttMs 161.1 rcdrttMs 163.8 s_util: 8.82 r_util: 8.82 onperc: 63.8
+conn: 5 rbytes: 7750300 rMbps: 0.96 fctMs: 887 abytes: 7750260 aMbps: 0.958 sndrttMs 160.5 rcdrttMs 163.6 s_util: 8.69 r_util: 8.69 onperc: 64.7
+conn: 6 rbytes: 6113560 rMbps: 0.80 fctMs: 844 abytes: 6113520 aMbps: 0.805 sndrttMs 160.9 rcdrttMs 163.4 s_util: 8.52 r_util: 8.52 onperc: 60.8
+conn: 7 rbytes: 8609620 rMbps: 1.09 fctMs: 933 abytes: 8609580 aMbps: 1.086 sndrttMs 162.4 rcdrttMs 165.0 s_util: 8.81 r_util: 8.81 onperc: 63.4
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 8085460 rMbps: 1.08 fctMs: 720 abytes: 8085420 aMbps: 1.082 sndrttMs 162.0 rcdrttMs 165.8 s_util: 8.81 r_util: 8.81 onperc: 59.8
+conn: 1 rbytes: 7844800 rMbps: 1.06 fctMs: 800 abytes: 7844760 aMbps: 1.060 sndrttMs 160.5 rcdrttMs 163.7 s_util: 8.80 r_util: 8.80 onperc: 59.2
+conn: 2 rbytes: 6717100 rMbps: 0.88 fctMs: 849 abytes: 6701940 aMbps: 0.877 sndrttMs 160.9 rcdrttMs 163.6 s_util: 8.60 r_util: 8.61 onperc: 61.1
+conn: 3 rbytes: 6795220 rMbps: 0.93 fctMs: 856 abytes: 6781320 aMbps: 0.932 sndrttMs 159.8 rcdrttMs 163.0 s_util: 8.67 r_util: 8.67 onperc: 58.2
+conn: 4 rbytes: 6095920 rMbps: 0.84 fctMs: 827 abytes: 6095880 aMbps: 0.842 sndrttMs 160.3 rcdrttMs 162.5 s_util: 8.57 r_util: 8.57 onperc: 57.9
+conn: 5 rbytes: 8031280 rMbps: 1.03 fctMs: 895 abytes: 8029980 aMbps: 1.025 sndrttMs 160.5 rcdrttMs 163.5 s_util: 8.76 r_util: 8.76 onperc: 62.7
+conn: 6 rbytes: 7682260 rMbps: 0.99 fctMs: 788 abytes: 7682220 aMbps: 0.988 sndrttMs 161.1 rcdrttMs 164.7 s_util: 8.72 r_util: 8.72 onperc: 62.2
+conn: 7 rbytes: 7551220 rMbps: 1.01 fctMs: 839 abytes: 7532280 aMbps: 1.012 sndrttMs 160.4 rcdrttMs 163.4 s_util: 8.75 r_util: 8.75 onperc: 59.5
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 7931740 rMbps: 1.03 fctMs: 895 abytes: 7896420 aMbps: 1.023 sndrttMs 161.8 rcdrttMs 165.3 s_util: 8.75 r_util: 8.76 onperc: 61.7
+conn: 1 rbytes: 8138380 rMbps: 1.11 fctMs: 812 abytes: 8138340 aMbps: 1.113 sndrttMs 165.2 rcdrttMs 168.6 s_util: 8.82 r_util: 8.82 onperc: 58.5
+conn: 2 rbytes: 7490740 rMbps: 0.99 fctMs: 918 abytes: 7490700 aMbps: 0.989 sndrttMs 160.5 rcdrttMs 163.1 s_util: 8.73 r_util: 8.73 onperc: 60.6
+conn: 3 rbytes: 7781800 rMbps: 1.03 fctMs: 887 abytes: 7756560 aMbps: 1.029 sndrttMs 161.7 rcdrttMs 165.0 s_util: 8.76 r_util: 8.76 onperc: 60.3
+conn: 4 rbytes: 8105620 rMbps: 0.99 fctMs: 864 abytes: 8105580 aMbps: 0.988 sndrttMs 161.5 rcdrttMs 164.9 s_util: 8.72 r_util: 8.72 onperc: 65.6
+conn: 5 rbytes: 8673880 rMbps: 1.08 fctMs: 917 abytes: 8637300 aMbps: 1.077 sndrttMs 160.7 rcdrttMs 164.1 s_util: 8.81 r_util: 8.81 onperc: 64.2
+conn: 6 rbytes: 7456720 rMbps: 1.02 fctMs: 792 abytes: 7456680 aMbps: 1.017 sndrttMs 161.4 rcdrttMs 164.4 s_util: 8.75 r_util: 8.75 onperc: 58.6
+conn: 7 rbytes: 6620080 rMbps: 0.91 fctMs: 786 abytes: 6620040 aMbps: 0.911 sndrttMs 161.7 rcdrttMs 166.0 s_util: 8.64 r_util: 8.64 onperc: 58.2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 10Mb

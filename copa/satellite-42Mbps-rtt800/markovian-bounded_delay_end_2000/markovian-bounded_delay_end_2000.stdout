@@ -1,0 +1,16 @@
+../bin/sender serverip=100.64.0.1 cctype=markovian offduration=0 delta_conf=do_ss:bounded_delay_end:2000 2 continuous 20000 20000 1
+../bin/sender serverip=100.64.0.1 cctype=markovian offduration=0 delta_conf=do_ss:bounded_delay_end:2000 traffic_params=deterministic,num_cycles=1 onduration=20000 offduration=1
+Using MarkovianCC.
+Will do slow start
+Bounding delay to 2000 s in an end-to-end manner
+Assigning Source ID: 590925388
+Using MarkovianCC.
+Will do slow start
+Bounding delay to 2000 s in an end-to-end manner
+Assigning Source ID: 533608648
+Assuming training link rate of: 2666.67 pkts/sec
+Assuming training link rate of: 2666.67 pkts/sec
+Set min. RTT to 5.68528
+Connection Established.
+Set min. RTT to 12.1451
+Connection Established.

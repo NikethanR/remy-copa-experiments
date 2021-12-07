@@ -1,0 +1,16 @@
+../bin/sender serverip=100.64.0.1 cctype=markovian offduration=0 delta_conf=do_ss:constant_delta:0.5 2 continuous 20000 20000 1
+../bin/sender serverip=100.64.0.1 cctype=markovian offduration=0 delta_conf=do_ss:constant_delta:0.5 traffic_params=deterministic,num_cycles=1 onduration=20000 offduration=1
+Using MarkovianCC.
+Will do slow start
+Constant delta mode with delta = 0.5
+Assigning Source ID: 1108373150
+Using MarkovianCC.
+Will do slow start
+Constant delta mode with delta = 0.5
+Assigning Source ID: 1591653863
+Assuming training link rate of: 2666.67 pkts/sec
+Assuming training link rate of: 2666.67 pkts/sec
+Set min. RTT to 2.92179
+Connection Established.
+Set min. RTT to 3.17162
+Connection Established.

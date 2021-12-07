@@ -1,0 +1,5 @@
+bbr 33.79 74
+cubic 2.63 1
+markovian-constant_delta:0.1 15.22 1
+markovian-constant_delta:0.5 18.47 1
+markovian-constant_delta:1 17.03 1

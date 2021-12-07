@@ -1,0 +1,735 @@
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8178700 rMbps: 1.19 fctMs: 704 abytes: 8178660 aMbps: 1.191 sndrttMs 151.3 rcdrttMs 152.2 s_util: 8.97 r_util: 8.97 onperc: 54.9
+conn: 1 rbytes: 10008220 rMbps: 1.39 fctMs: 619 abytes: 9998100 aMbps: 1.388 sndrttMs 151.7 rcdrttMs 152.4 s_util: 9.12 r_util: 9.12 onperc: 57.6
+conn: 2 rbytes: 9525640 rMbps: 1.31 fctMs: 594 abytes: 9525600 aMbps: 1.309 sndrttMs 151.5 rcdrttMs 152.4 s_util: 9.06 r_util: 9.06 onperc: 58.2
+conn: 3 rbytes: 8823820 rMbps: 1.25 fctMs: 608 abytes: 8823780 aMbps: 1.249 sndrttMs 151.4 rcdrttMs 152.1 s_util: 9.02 r_util: 9.02 onperc: 56.5
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9606280 rMbps: 1.36 fctMs: 650 abytes: 9606240 aMbps: 1.359 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.10 r_util: 9.10 onperc: 56.5
+conn: 1 rbytes: 9535720 rMbps: 1.30 fctMs: 698 abytes: 9535680 aMbps: 1.301 sndrttMs 151.5 rcdrttMs 152.3 s_util: 9.06 r_util: 9.06 onperc: 58.6
+conn: 2 rbytes: 8536540 rMbps: 1.18 fctMs: 638 abytes: 8536500 aMbps: 1.177 sndrttMs 151.4 rcdrttMs 152.2 s_util: 8.96 r_util: 8.96 onperc: 58.0
+conn: 3 rbytes: 8482360 rMbps: 1.22 fctMs: 610 abytes: 8482320 aMbps: 1.222 sndrttMs 151.5 rcdrttMs 152.5 s_util: 9.00 r_util: 9.00 onperc: 55.5
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9342940 rMbps: 1.30 fctMs: 617 abytes: 9342900 aMbps: 1.303 sndrttMs 151.7 rcdrttMs 152.7 s_util: 9.06 r_util: 9.06 onperc: 57.4
+conn: 1 rbytes: 10309360 rMbps: 1.47 fctMs: 577 abytes: 10309320 aMbps: 1.473 sndrttMs 151.7 rcdrttMs 152.5 s_util: 9.18 r_util: 9.18 onperc: 56.0
+conn: 2 rbytes: 9305140 rMbps: 1.31 fctMs: 616 abytes: 9305100 aMbps: 1.313 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.07 r_util: 9.07 onperc: 56.7
+conn: 3 rbytes: 8207680 rMbps: 1.17 fctMs: 677 abytes: 8207640 aMbps: 1.169 sndrttMs 151.3 rcdrttMs 151.9 s_util: 8.95 r_util: 8.95 onperc: 56.2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10056100 rMbps: 1.33 fctMs: 606 abytes: 10056060 aMbps: 1.326 sndrttMs 151.7 rcdrttMs 152.8 s_util: 9.08 r_util: 9.08 onperc: 60.6
+conn: 1 rbytes: 9388300 rMbps: 1.32 fctMs: 638 abytes: 9388260 aMbps: 1.322 sndrttMs 151.6 rcdrttMs 152.6 s_util: 9.07 r_util: 9.07 onperc: 56.8
+conn: 2 rbytes: 9640300 rMbps: 1.33 fctMs: 665 abytes: 9637740 aMbps: 1.332 sndrttMs 151.5 rcdrttMs 152.2 s_util: 9.08 r_util: 9.08 onperc: 57.9
+conn: 3 rbytes: 8915800 rMbps: 1.28 fctMs: 631 abytes: 8910720 aMbps: 1.283 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.04 r_util: 9.04 onperc: 55.6
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10353460 rMbps: 1.40 fctMs: 671 abytes: 10353420 aMbps: 1.402 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.13 r_util: 9.13 onperc: 59.1
+conn: 1 rbytes: 8864140 rMbps: 1.21 fctMs: 668 abytes: 8859060 aMbps: 1.205 sndrttMs 151.4 rcdrttMs 152.1 s_util: 8.98 r_util: 8.98 onperc: 58.8
+conn: 2 rbytes: 8087980 rMbps: 1.25 fctMs: 624 abytes: 7992180 aMbps: 1.235 sndrttMs 151.5 rcdrttMs 152.6 s_util: 9.01 r_util: 9.02 onperc: 51.8
+conn: 3 rbytes: 9431140 rMbps: 1.37 fctMs: 647 abytes: 9431100 aMbps: 1.372 sndrttMs 151.7 rcdrttMs 152.8 s_util: 9.11 r_util: 9.11 onperc: 55.0
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 7660840 rMbps: 1.14 fctMs: 657 abytes: 7660800 aMbps: 1.138 sndrttMs 151.3 rcdrttMs 152.2 s_util: 8.93 r_util: 8.93 onperc: 53.9
+conn: 1 rbytes: 9505480 rMbps: 1.31 fctMs: 625 abytes: 9505440 aMbps: 1.308 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.06 r_util: 9.06 onperc: 58.1
+conn: 2 rbytes: 9082120 rMbps: 1.37 fctMs: 630 abytes: 9082080 aMbps: 1.373 sndrttMs 151.7 rcdrttMs 152.6 s_util: 9.11 r_util: 9.11 onperc: 52.9
+conn: 3 rbytes: 9829300 rMbps: 1.40 fctMs: 637 abytes: 9788940 aMbps: 1.398 sndrttMs 151.8 rcdrttMs 152.8 s_util: 9.13 r_util: 9.13 onperc: 56.0
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 6922480 rMbps: 1.06 fctMs: 645 abytes: 6922440 aMbps: 1.059 sndrttMs 151.1 rcdrttMs 151.7 s_util: 8.86 r_util: 8.86 onperc: 52.3
+conn: 1 rbytes: 9456340 rMbps: 1.34 fctMs: 626 abytes: 9415980 aMbps: 1.336 sndrttMs 151.6 rcdrttMs 152.1 s_util: 9.08 r_util: 9.09 onperc: 56.4
+conn: 2 rbytes: 9830560 rMbps: 1.42 fctMs: 658 abytes: 9820440 aMbps: 1.421 sndrttMs 151.8 rcdrttMs 152.7 s_util: 9.14 r_util: 9.15 onperc: 55.3
+conn: 3 rbytes: 9741100 rMbps: 1.33 fctMs: 653 abytes: 9741060 aMbps: 1.326 sndrttMs 151.5 rcdrttMs 152.4 s_util: 9.08 r_util: 9.08 onperc: 58.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10047280 rMbps: 1.42 fctMs: 610 abytes: 10047240 aMbps: 1.417 sndrttMs 151.7 rcdrttMs 152.7 s_util: 9.14 r_util: 9.14 onperc: 56.7
+conn: 1 rbytes: 9282460 rMbps: 1.33 fctMs: 613 abytes: 9262260 aMbps: 1.328 sndrttMs 151.5 rcdrttMs 152.5 s_util: 9.08 r_util: 9.08 onperc: 55.8
+conn: 2 rbytes: 9917500 rMbps: 1.38 fctMs: 618 abytes: 9917460 aMbps: 1.381 sndrttMs 151.7 rcdrttMs 152.4 s_util: 9.12 r_util: 9.12 onperc: 57.4
+conn: 3 rbytes: 8947300 rMbps: 1.32 fctMs: 661 abytes: 8927100 aMbps: 1.317 sndrttMs 151.7 rcdrttMs 152.4 s_util: 9.07 r_util: 9.07 onperc: 54.2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9694480 rMbps: 1.35 fctMs: 603 abytes: 9694440 aMbps: 1.353 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.10 r_util: 9.10 onperc: 57.3
+conn: 1 rbytes: 9869620 rMbps: 1.38 fctMs: 664 abytes: 9869580 aMbps: 1.382 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.12 r_util: 9.12 onperc: 57.1
+conn: 2 rbytes: 9691960 rMbps: 1.31 fctMs: 690 abytes: 9678060 aMbps: 1.304 sndrttMs 151.5 rcdrttMs 152.3 s_util: 9.06 r_util: 9.06 onperc: 59.4
+conn: 3 rbytes: 9943960 rMbps: 1.47 fctMs: 659 abytes: 9923760 aMbps: 1.469 sndrttMs 151.7 rcdrttMs 152.2 s_util: 9.18 r_util: 9.18 onperc: 54.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10117840 rMbps: 1.46 fctMs: 659 abytes: 10117800 aMbps: 1.463 sndrttMs 151.9 rcdrttMs 152.8 s_util: 9.17 r_util: 9.17 onperc: 55.3
+conn: 1 rbytes: 10281640 rMbps: 1.45 fctMs: 667 abytes: 10281600 aMbps: 1.451 sndrttMs 151.7 rcdrttMs 152.6 s_util: 9.17 r_util: 9.17 onperc: 56.7
+conn: 2 rbytes: 8540320 rMbps: 1.23 fctMs: 618 abytes: 8516340 aMbps: 1.226 sndrttMs 151.4 rcdrttMs 152.6 s_util: 9.00 r_util: 9.00 onperc: 55.6
+conn: 3 rbytes: 8169880 rMbps: 1.20 fctMs: 578 abytes: 8167320 aMbps: 1.203 sndrttMs 151.6 rcdrttMs 152.5 s_util: 8.98 r_util: 8.98 onperc: 54.3
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9602500 rMbps: 1.33 fctMs: 649 abytes: 9602460 aMbps: 1.330 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.08 r_util: 9.08 onperc: 57.8
+conn: 1 rbytes: 9579820 rMbps: 1.33 fctMs: 638 abytes: 9577260 aMbps: 1.334 sndrttMs 151.5 rcdrttMs 152.1 s_util: 9.08 r_util: 9.08 onperc: 57.4
+conn: 2 rbytes: 8183740 rMbps: 1.20 fctMs: 660 abytes: 8178660 aMbps: 1.195 sndrttMs 151.3 rcdrttMs 152.0 s_util: 8.97 r_util: 8.98 onperc: 54.7
+conn: 3 rbytes: 9489100 rMbps: 1.38 fctMs: 597 abytes: 9489060 aMbps: 1.381 sndrttMs 151.7 rcdrttMs 152.4 s_util: 9.12 r_util: 9.12 onperc: 55.0
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9121180 rMbps: 1.28 fctMs: 621 abytes: 9111060 aMbps: 1.277 sndrttMs 151.6 rcdrttMs 152.8 s_util: 9.04 r_util: 9.04 onperc: 57.1
+conn: 1 rbytes: 7376080 rMbps: 1.15 fctMs: 642 abytes: 7376040 aMbps: 1.149 sndrttMs 151.2 rcdrttMs 151.8 s_util: 8.94 r_util: 8.94 onperc: 51.3
+conn: 2 rbytes: 8736880 rMbps: 1.24 fctMs: 649 abytes: 8696520 aMbps: 1.232 sndrttMs 151.4 rcdrttMs 151.9 s_util: 9.00 r_util: 9.01 onperc: 56.5
+conn: 3 rbytes: 7992220 rMbps: 1.15 fctMs: 612 abytes: 7992180 aMbps: 1.147 sndrttMs 151.3 rcdrttMs 152.1 s_util: 8.93 r_util: 8.93 onperc: 55.7
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9345460 rMbps: 1.24 fctMs: 675 abytes: 9330300 aMbps: 1.242 sndrttMs 151.4 rcdrttMs 152.1 s_util: 9.01 r_util: 9.01 onperc: 60.1
+conn: 1 rbytes: 8217760 rMbps: 1.24 fctMs: 589 abytes: 8217720 aMbps: 1.241 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.01 r_util: 9.01 onperc: 53.0
+conn: 2 rbytes: 10698700 rMbps: 1.43 fctMs: 649 abytes: 10698660 aMbps: 1.433 sndrttMs 151.7 rcdrttMs 152.6 s_util: 9.15 r_util: 9.15 onperc: 59.7
+conn: 3 rbytes: 10416460 rMbps: 1.42 fctMs: 613 abytes: 10413900 aMbps: 1.415 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.14 r_util: 9.14 onperc: 58.9
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 7951900 rMbps: 1.23 fctMs: 601 abytes: 7951860 aMbps: 1.230 sndrttMs 151.4 rcdrttMs 152.2 s_util: 9.00 r_util: 9.00 onperc: 51.7
+conn: 1 rbytes: 9763780 rMbps: 1.42 fctMs: 612 abytes: 9763740 aMbps: 1.419 sndrttMs 151.6 rcdrttMs 152.6 s_util: 9.14 r_util: 9.14 onperc: 55.0
+conn: 2 rbytes: 8878000 rMbps: 1.23 fctMs: 674 abytes: 8877960 aMbps: 1.225 sndrttMs 151.3 rcdrttMs 151.9 s_util: 9.00 r_util: 9.00 onperc: 58.0
+conn: 3 rbytes: 8488660 rMbps: 1.24 fctMs: 721 abytes: 8488620 aMbps: 1.240 sndrttMs 151.4 rcdrttMs 152.0 s_util: 9.01 r_util: 9.01 onperc: 54.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10517260 rMbps: 1.53 fctMs: 626 abytes: 10512180 aMbps: 1.526 sndrttMs 151.8 rcdrttMs 152.7 s_util: 9.22 r_util: 9.22 onperc: 55.1
+conn: 1 rbytes: 9412240 rMbps: 1.32 fctMs: 664 abytes: 9407160 aMbps: 1.318 sndrttMs 151.5 rcdrttMs 152.0 s_util: 9.07 r_util: 9.07 onperc: 57.1
+conn: 2 rbytes: 8910760 rMbps: 1.29 fctMs: 598 abytes: 8910720 aMbps: 1.295 sndrttMs 151.6 rcdrttMs 152.9 s_util: 9.05 r_util: 9.05 onperc: 55.0
+conn: 3 rbytes: 7833460 rMbps: 1.18 fctMs: 601 abytes: 7833420 aMbps: 1.185 sndrttMs 151.3 rcdrttMs 151.8 s_util: 8.97 r_util: 8.97 onperc: 52.9
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8836420 rMbps: 1.32 fctMs: 669 abytes: 8836380 aMbps: 1.322 sndrttMs 151.5 rcdrttMs 152.4 s_util: 9.07 r_util: 9.07 onperc: 53.5
+conn: 1 rbytes: 8172400 rMbps: 1.14 fctMs: 624 abytes: 8172360 aMbps: 1.139 sndrttMs 151.3 rcdrttMs 152.0 s_util: 8.93 r_util: 8.93 onperc: 57.4
+conn: 2 rbytes: 9022900 rMbps: 1.35 fctMs: 614 abytes: 9022860 aMbps: 1.352 sndrttMs 151.6 rcdrttMs 152.6 s_util: 9.10 r_util: 9.10 onperc: 53.4
+conn: 3 rbytes: 10287940 rMbps: 1.42 fctMs: 649 abytes: 10287900 aMbps: 1.424 sndrttMs 151.8 rcdrttMs 153.0 s_util: 9.15 r_util: 9.15 onperc: 57.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 7493260 rMbps: 1.13 fctMs: 639 abytes: 7493220 aMbps: 1.131 sndrttMs 151.2 rcdrttMs 151.9 s_util: 8.92 r_util: 8.92 onperc: 53.0
+conn: 1 rbytes: 7432780 rMbps: 1.21 fctMs: 612 abytes: 7432740 aMbps: 1.215 sndrttMs 151.4 rcdrttMs 152.4 s_util: 8.99 r_util: 8.99 onperc: 49.0
+conn: 2 rbytes: 7781800 rMbps: 1.15 fctMs: 647 abytes: 7781760 aMbps: 1.145 sndrttMs 151.2 rcdrttMs 151.8 s_util: 8.93 r_util: 8.93 onperc: 54.4
+conn: 3 rbytes: 7408840 rMbps: 1.12 fctMs: 677 abytes: 7408800 aMbps: 1.122 sndrttMs 151.3 rcdrttMs 151.8 s_util: 8.91 r_util: 8.91 onperc: 52.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9602500 rMbps: 1.34 fctMs: 657 abytes: 9602460 aMbps: 1.344 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.09 r_util: 9.09 onperc: 57.1
+conn: 1 rbytes: 9026680 rMbps: 1.28 fctMs: 632 abytes: 9026640 aMbps: 1.285 sndrttMs 151.5 rcdrttMs 152.1 s_util: 9.05 r_util: 9.05 onperc: 56.2
+conn: 2 rbytes: 11856640 rMbps: 1.53 fctMs: 641 abytes: 11851560 aMbps: 1.526 sndrttMs 151.9 rcdrttMs 152.9 s_util: 9.21 r_util: 9.22 onperc: 62.1
+conn: 3 rbytes: 8777200 rMbps: 1.27 fctMs: 623 abytes: 8777160 aMbps: 1.266 sndrttMs 151.5 rcdrttMs 152.2 s_util: 9.03 r_util: 9.03 onperc: 55.5
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8476060 rMbps: 1.26 fctMs: 650 abytes: 8476020 aMbps: 1.257 sndrttMs 151.5 rcdrttMs 152.2 s_util: 9.02 r_util: 9.02 onperc: 53.9
+conn: 1 rbytes: 9313960 rMbps: 1.30 fctMs: 652 abytes: 9313920 aMbps: 1.298 sndrttMs 151.5 rcdrttMs 152.2 s_util: 9.06 r_util: 9.06 onperc: 57.4
+conn: 2 rbytes: 9872140 rMbps: 1.38 fctMs: 709 abytes: 9872100 aMbps: 1.375 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.11 r_util: 9.11 onperc: 57.4
+conn: 3 rbytes: 10294240 rMbps: 1.46 fctMs: 596 abytes: 10294200 aMbps: 1.455 sndrttMs 151.8 rcdrttMs 152.8 s_util: 9.17 r_util: 9.17 onperc: 56.6
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8431960 rMbps: 1.22 fctMs: 627 abytes: 8431920 aMbps: 1.222 sndrttMs 151.5 rcdrttMs 152.1 s_util: 9.00 r_util: 9.00 onperc: 55.2
+conn: 1 rbytes: 9617620 rMbps: 1.35 fctMs: 632 abytes: 9617580 aMbps: 1.354 sndrttMs 151.6 rcdrttMs 152.7 s_util: 9.10 r_util: 9.10 onperc: 56.8
+conn: 2 rbytes: 9007780 rMbps: 1.29 fctMs: 691 abytes: 9007740 aMbps: 1.287 sndrttMs 151.4 rcdrttMs 152.0 s_util: 9.05 r_util: 9.05 onperc: 56.0
+conn: 3 rbytes: 10277860 rMbps: 1.39 fctMs: 602 abytes: 10277820 aMbps: 1.394 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.13 r_util: 9.13 onperc: 59.0
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8428180 rMbps: 1.22 fctMs: 637 abytes: 8425620 aMbps: 1.216 sndrttMs 151.4 rcdrttMs 152.1 s_util: 8.99 r_util: 8.99 onperc: 55.4
+conn: 1 rbytes: 8410540 rMbps: 1.28 fctMs: 673 abytes: 8410500 aMbps: 1.281 sndrttMs 151.5 rcdrttMs 152.3 s_util: 9.04 r_util: 9.04 onperc: 52.5
+conn: 2 rbytes: 7747780 rMbps: 1.12 fctMs: 635 abytes: 7740180 aMbps: 1.121 sndrttMs 151.3 rcdrttMs 151.8 s_util: 8.91 r_util: 8.91 onperc: 55.2
+conn: 3 rbytes: 9824260 rMbps: 1.38 fctMs: 693 abytes: 9824220 aMbps: 1.383 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.12 r_util: 9.12 onperc: 56.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10945660 rMbps: 1.54 fctMs: 607 abytes: 10945620 aMbps: 1.536 sndrttMs 152.0 rcdrttMs 152.6 s_util: 9.22 r_util: 9.22 onperc: 57.0
+conn: 1 rbytes: 9371920 rMbps: 1.34 fctMs: 666 abytes: 9370620 aMbps: 1.341 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.09 r_util: 9.09 onperc: 55.9
+conn: 2 rbytes: 8787280 rMbps: 1.25 fctMs: 630 abytes: 8782200 aMbps: 1.254 sndrttMs 151.5 rcdrttMs 152.3 s_util: 9.02 r_util: 9.02 onperc: 56.0
+conn: 3 rbytes: 7754080 rMbps: 1.20 fctMs: 615 abytes: 7754040 aMbps: 1.200 sndrttMs 151.3 rcdrttMs 152.0 s_util: 8.98 r_util: 8.98 onperc: 51.7
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9567220 rMbps: 1.33 fctMs: 620 abytes: 9567180 aMbps: 1.328 sndrttMs 151.6 rcdrttMs 152.5 s_util: 9.08 r_util: 9.08 onperc: 57.6
+conn: 1 rbytes: 8977540 rMbps: 1.27 fctMs: 626 abytes: 8967420 aMbps: 1.274 sndrttMs 151.5 rcdrttMs 152.3 s_util: 9.04 r_util: 9.04 onperc: 56.3
+conn: 2 rbytes: 9801580 rMbps: 1.36 fctMs: 677 abytes: 9796500 aMbps: 1.362 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.10 r_util: 9.10 onperc: 57.5
+conn: 3 rbytes: 10982200 rMbps: 1.48 fctMs: 707 abytes: 10972080 aMbps: 1.478 sndrttMs 151.8 rcdrttMs 152.7 s_util: 9.18 r_util: 9.18 onperc: 59.4
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 7997260 rMbps: 1.15 fctMs: 610 abytes: 7997220 aMbps: 1.153 sndrttMs 151.4 rcdrttMs 152.0 s_util: 8.94 r_util: 8.94 onperc: 55.5
+conn: 1 rbytes: 9695740 rMbps: 1.37 fctMs: 608 abytes: 9695700 aMbps: 1.371 sndrttMs 151.6 rcdrttMs 152.1 s_util: 9.11 r_util: 9.11 onperc: 56.6
+conn: 2 rbytes: 9060700 rMbps: 1.29 fctMs: 618 abytes: 9060660 aMbps: 1.289 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.05 r_util: 9.05 onperc: 56.3
+conn: 3 rbytes: 9167800 rMbps: 1.34 fctMs: 644 abytes: 9157680 aMbps: 1.337 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.08 r_util: 9.09 onperc: 54.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9315220 rMbps: 1.37 fctMs: 698 abytes: 9274860 aMbps: 1.363 sndrttMs 151.6 rcdrttMs 152.8 s_util: 9.10 r_util: 9.11 onperc: 54.4
+conn: 1 rbytes: 8975020 rMbps: 1.24 fctMs: 650 abytes: 8934660 aMbps: 1.235 sndrttMs 151.5 rcdrttMs 152.1 s_util: 9.01 r_util: 9.01 onperc: 57.9
+conn: 2 rbytes: 8682700 rMbps: 1.22 fctMs: 676 abytes: 8682660 aMbps: 1.223 sndrttMs 151.4 rcdrttMs 152.2 s_util: 9.00 r_util: 9.00 onperc: 56.8
+conn: 3 rbytes: 8221540 rMbps: 1.14 fctMs: 678 abytes: 8221500 aMbps: 1.140 sndrttMs 151.3 rcdrttMs 152.1 s_util: 8.93 r_util: 8.93 onperc: 57.7
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 11033860 rMbps: 1.48 fctMs: 629 abytes: 11031300 aMbps: 1.476 sndrttMs 151.8 rcdrttMs 152.3 s_util: 9.18 r_util: 9.18 onperc: 59.8
+conn: 1 rbytes: 9267340 rMbps: 1.33 fctMs: 621 abytes: 9247140 aMbps: 1.324 sndrttMs 151.5 rcdrttMs 152.2 s_util: 9.08 r_util: 9.08 onperc: 55.9
+conn: 2 rbytes: 8239180 rMbps: 1.24 fctMs: 628 abytes: 8239140 aMbps: 1.235 sndrttMs 151.5 rcdrttMs 152.4 s_util: 9.01 r_util: 9.01 onperc: 53.4
+conn: 3 rbytes: 11195140 rMbps: 1.62 fctMs: 635 abytes: 11174940 aMbps: 1.619 sndrttMs 152.0 rcdrttMs 153.3 s_util: 9.27 r_util: 9.28 onperc: 55.2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9545800 rMbps: 1.34 fctMs: 605 abytes: 9524340 aMbps: 1.340 sndrttMs 151.6 rcdrttMs 152.5 s_util: 9.09 r_util: 9.09 onperc: 56.8
+conn: 1 rbytes: 8081680 rMbps: 1.22 fctMs: 633 abytes: 8081640 aMbps: 1.216 sndrttMs 151.5 rcdrttMs 152.4 s_util: 8.99 r_util: 8.99 onperc: 53.2
+conn: 2 rbytes: 8729320 rMbps: 1.19 fctMs: 644 abytes: 8729280 aMbps: 1.192 sndrttMs 151.4 rcdrttMs 152.1 s_util: 8.97 r_util: 8.97 onperc: 58.6
+conn: 3 rbytes: 11027560 rMbps: 1.53 fctMs: 602 abytes: 11027520 aMbps: 1.527 sndrttMs 151.9 rcdrttMs 152.8 s_util: 9.22 r_util: 9.22 onperc: 57.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10668460 rMbps: 1.43 fctMs: 621 abytes: 10668420 aMbps: 1.430 sndrttMs 151.7 rcdrttMs 152.3 s_util: 9.15 r_util: 9.15 onperc: 59.7
+conn: 1 rbytes: 12268660 rMbps: 1.59 fctMs: 641 abytes: 12228300 aMbps: 1.590 sndrttMs 151.9 rcdrttMs 153.1 s_util: 9.26 r_util: 9.26 onperc: 61.5
+conn: 2 rbytes: 10484500 rMbps: 1.40 fctMs: 687 abytes: 10484460 aMbps: 1.403 sndrttMs 151.7 rcdrttMs 152.4 s_util: 9.13 r_util: 9.13 onperc: 59.8
+conn: 3 rbytes: 9756220 rMbps: 1.37 fctMs: 628 abytes: 9756180 aMbps: 1.366 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.11 r_util: 9.11 onperc: 57.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9486580 rMbps: 1.31 fctMs: 705 abytes: 9486540 aMbps: 1.312 sndrttMs 151.6 rcdrttMs 152.6 s_util: 9.07 r_util: 9.07 onperc: 57.8
+conn: 1 rbytes: 11200180 rMbps: 1.53 fctMs: 585 abytes: 11200140 aMbps: 1.532 sndrttMs 151.9 rcdrttMs 152.9 s_util: 9.22 r_util: 9.22 onperc: 58.5
+conn: 2 rbytes: 11521480 rMbps: 1.54 fctMs: 706 abytes: 11521440 aMbps: 1.536 sndrttMs 151.8 rcdrttMs 152.9 s_util: 9.22 r_util: 9.22 onperc: 60.0
+conn: 3 rbytes: 6444940 rMbps: 0.99 fctMs: 572 abytes: 6434820 aMbps: 0.988 sndrttMs 151.2 rcdrttMs 152.2 s_util: 8.78 r_util: 8.79 onperc: 52.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 7911580 rMbps: 1.25 fctMs: 609 abytes: 7911540 aMbps: 1.253 sndrttMs 151.5 rcdrttMs 152.3 s_util: 9.02 r_util: 9.02 onperc: 50.5
+conn: 1 rbytes: 8743180 rMbps: 1.24 fctMs: 688 abytes: 8743140 aMbps: 1.239 sndrttMs 151.4 rcdrttMs 151.9 s_util: 9.01 r_util: 9.01 onperc: 56.4
+conn: 2 rbytes: 9353020 rMbps: 1.32 fctMs: 651 abytes: 9350460 aMbps: 1.320 sndrttMs 151.6 rcdrttMs 152.0 s_util: 9.07 r_util: 9.07 onperc: 56.7
+conn: 3 rbytes: 8919580 rMbps: 1.25 fctMs: 634 abytes: 8919540 aMbps: 1.250 sndrttMs 151.4 rcdrttMs 152.0 s_util: 9.02 r_util: 9.02 onperc: 57.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10524820 rMbps: 1.44 fctMs: 622 abytes: 10524780 aMbps: 1.439 sndrttMs 151.7 rcdrttMs 152.2 s_util: 9.16 r_util: 9.16 onperc: 58.5
+conn: 1 rbytes: 9320260 rMbps: 1.32 fctMs: 644 abytes: 9320220 aMbps: 1.316 sndrttMs 151.6 rcdrttMs 152.7 s_util: 9.07 r_util: 9.07 onperc: 56.7
+conn: 2 rbytes: 8384080 rMbps: 1.21 fctMs: 670 abytes: 8384040 aMbps: 1.207 sndrttMs 151.3 rcdrttMs 152.0 s_util: 8.98 r_util: 8.98 onperc: 55.6
+conn: 3 rbytes: 9738580 rMbps: 1.32 fctMs: 615 abytes: 9738540 aMbps: 1.319 sndrttMs 151.6 rcdrttMs 152.5 s_util: 9.07 r_util: 9.07 onperc: 59.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10098940 rMbps: 1.44 fctMs: 610 abytes: 10098900 aMbps: 1.441 sndrttMs 151.7 rcdrttMs 152.5 s_util: 9.16 r_util: 9.16 onperc: 56.1
+conn: 1 rbytes: 8726800 rMbps: 1.30 fctMs: 591 abytes: 8721720 aMbps: 1.296 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.05 r_util: 9.05 onperc: 53.8
+conn: 2 rbytes: 9380740 rMbps: 1.34 fctMs: 660 abytes: 9380700 aMbps: 1.338 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.09 r_util: 9.09 onperc: 56.1
+conn: 3 rbytes: 9479020 rMbps: 1.44 fctMs: 651 abytes: 9417240 aMbps: 1.428 sndrttMs 151.7 rcdrttMs 152.6 s_util: 9.15 r_util: 9.16 onperc: 52.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9923800 rMbps: 1.39 fctMs: 670 abytes: 9923760 aMbps: 1.393 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.13 r_util: 9.13 onperc: 57.0
+conn: 1 rbytes: 8507560 rMbps: 1.27 fctMs: 652 abytes: 8507520 aMbps: 1.273 sndrttMs 151.7 rcdrttMs 152.5 s_util: 9.04 r_util: 9.04 onperc: 53.5
+conn: 2 rbytes: 7807000 rMbps: 1.20 fctMs: 640 abytes: 7806960 aMbps: 1.204 sndrttMs 151.5 rcdrttMs 152.3 s_util: 8.98 r_util: 8.98 onperc: 51.9
+conn: 3 rbytes: 9092200 rMbps: 1.28 fctMs: 674 abytes: 9092160 aMbps: 1.285 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.04 r_util: 9.04 onperc: 56.6
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8382820 rMbps: 1.19 fctMs: 669 abytes: 8362620 aMbps: 1.191 sndrttMs 151.4 rcdrttMs 152.0 s_util: 8.97 r_util: 8.97 onperc: 56.2
+conn: 1 rbytes: 8796100 rMbps: 1.23 fctMs: 660 abytes: 8796060 aMbps: 1.226 sndrttMs 151.5 rcdrttMs 152.4 s_util: 9.00 r_util: 9.00 onperc: 57.4
+conn: 2 rbytes: 10139260 rMbps: 1.40 fctMs: 665 abytes: 10139220 aMbps: 1.402 sndrttMs 151.5 rcdrttMs 152.1 s_util: 9.13 r_util: 9.13 onperc: 57.9
+conn: 3 rbytes: 9157720 rMbps: 1.37 fctMs: 705 abytes: 9157680 aMbps: 1.366 sndrttMs 151.6 rcdrttMs 152.8 s_util: 9.11 r_util: 9.11 onperc: 53.6
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9820480 rMbps: 1.37 fctMs: 629 abytes: 9820440 aMbps: 1.373 sndrttMs 151.7 rcdrttMs 152.6 s_util: 9.11 r_util: 9.11 onperc: 57.2
+conn: 1 rbytes: 9121180 rMbps: 1.32 fctMs: 683 abytes: 9121140 aMbps: 1.320 sndrttMs 151.5 rcdrttMs 152.1 s_util: 9.07 r_util: 9.07 onperc: 55.3
+conn: 2 rbytes: 7933000 rMbps: 1.23 fctMs: 677 abytes: 7932960 aMbps: 1.233 sndrttMs 151.4 rcdrttMs 152.0 s_util: 9.00 r_util: 9.00 onperc: 51.5
+conn: 3 rbytes: 10299280 rMbps: 1.44 fctMs: 635 abytes: 10247580 aMbps: 1.435 sndrttMs 151.7 rcdrttMs 152.5 s_util: 9.15 r_util: 9.16 onperc: 57.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10382440 rMbps: 1.42 fctMs: 697 abytes: 10382400 aMbps: 1.420 sndrttMs 151.7 rcdrttMs 152.3 s_util: 9.14 r_util: 9.14 onperc: 58.5
+conn: 1 rbytes: 10039720 rMbps: 1.41 fctMs: 589 abytes: 9960300 aMbps: 1.395 sndrttMs 151.7 rcdrttMs 152.7 s_util: 9.13 r_util: 9.13 onperc: 57.1
+conn: 2 rbytes: 10085080 rMbps: 1.38 fctMs: 659 abytes: 10085040 aMbps: 1.376 sndrttMs 151.7 rcdrttMs 152.6 s_util: 9.11 r_util: 9.11 onperc: 58.7
+conn: 3 rbytes: 8059000 rMbps: 1.19 fctMs: 631 abytes: 8058960 aMbps: 1.189 sndrttMs 151.4 rcdrttMs 152.0 s_util: 8.97 r_util: 8.97 onperc: 54.2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10192180 rMbps: 1.38 fctMs: 648 abytes: 10192140 aMbps: 1.383 sndrttMs 151.6 rcdrttMs 152.1 s_util: 9.12 r_util: 9.12 onperc: 58.9
+conn: 1 rbytes: 9526900 rMbps: 1.41 fctMs: 676 abytes: 9526860 aMbps: 1.409 sndrttMs 151.6 rcdrttMs 152.1 s_util: 9.14 r_util: 9.14 onperc: 54.1
+conn: 2 rbytes: 8448340 rMbps: 1.27 fctMs: 648 abytes: 8448300 aMbps: 1.271 sndrttMs 151.4 rcdrttMs 152.5 s_util: 9.04 r_util: 9.04 onperc: 53.2
+conn: 3 rbytes: 9835600 rMbps: 1.33 fctMs: 598 abytes: 9835560 aMbps: 1.328 sndrttMs 151.5 rcdrttMs 152.4 s_util: 9.08 r_util: 9.08 onperc: 59.2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 7876300 rMbps: 1.20 fctMs: 667 abytes: 7869960 aMbps: 1.196 sndrttMs 151.4 rcdrttMs 152.0 s_util: 8.97 r_util: 8.98 onperc: 52.7
+conn: 1 rbytes: 9450040 rMbps: 1.34 fctMs: 669 abytes: 9450000 aMbps: 1.345 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.09 r_util: 9.09 onperc: 56.2
+conn: 2 rbytes: 7665880 rMbps: 1.11 fctMs: 616 abytes: 7645680 aMbps: 1.103 sndrttMs 151.3 rcdrttMs 151.7 s_util: 8.90 r_util: 8.90 onperc: 55.4
+conn: 3 rbytes: 9368140 rMbps: 1.32 fctMs: 647 abytes: 9302580 aMbps: 1.307 sndrttMs 151.5 rcdrttMs 152.2 s_util: 9.06 r_util: 9.07 onperc: 56.9
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10563880 rMbps: 1.50 fctMs: 720 abytes: 10563840 aMbps: 1.505 sndrttMs 151.8 rcdrttMs 152.6 s_util: 9.20 r_util: 9.20 onperc: 56.2
+conn: 1 rbytes: 9112360 rMbps: 1.28 fctMs: 649 abytes: 9112320 aMbps: 1.277 sndrttMs 151.4 rcdrttMs 152.1 s_util: 9.04 r_util: 9.04 onperc: 57.1
+conn: 2 rbytes: 8313520 rMbps: 1.16 fctMs: 638 abytes: 8313480 aMbps: 1.158 sndrttMs 151.3 rcdrttMs 151.8 s_util: 8.94 r_util: 8.94 onperc: 57.4
+conn: 3 rbytes: 10310620 rMbps: 1.42 fctMs: 603 abytes: 10310580 aMbps: 1.425 sndrttMs 151.8 rcdrttMs 153.0 s_util: 9.15 r_util: 9.15 onperc: 57.9
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9601240 rMbps: 1.33 fctMs: 619 abytes: 9569700 aMbps: 1.330 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.08 r_util: 9.08 onperc: 57.5
+conn: 1 rbytes: 10716340 rMbps: 1.48 fctMs: 637 abytes: 10706220 aMbps: 1.477 sndrttMs 151.7 rcdrttMs 152.7 s_util: 9.18 r_util: 9.18 onperc: 58.0
+conn: 2 rbytes: 8221540 rMbps: 1.14 fctMs: 663 abytes: 8221500 aMbps: 1.141 sndrttMs 151.3 rcdrttMs 151.9 s_util: 8.93 r_util: 8.93 onperc: 57.7
+conn: 3 rbytes: 8241700 rMbps: 1.17 fctMs: 670 abytes: 8224020 aMbps: 1.168 sndrttMs 151.3 rcdrttMs 151.9 s_util: 8.95 r_util: 8.95 onperc: 56.3
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8212720 rMbps: 1.21 fctMs: 631 abytes: 8210160 aMbps: 1.211 sndrttMs 151.6 rcdrttMs 152.3 s_util: 8.99 r_util: 8.99 onperc: 54.2
+conn: 1 rbytes: 9849460 rMbps: 1.39 fctMs: 677 abytes: 9844380 aMbps: 1.385 sndrttMs 151.7 rcdrttMs 152.4 s_util: 9.12 r_util: 9.12 onperc: 56.9
+conn: 2 rbytes: 10195960 rMbps: 1.45 fctMs: 616 abytes: 10195920 aMbps: 1.454 sndrttMs 151.8 rcdrttMs 152.6 s_util: 9.17 r_util: 9.17 onperc: 56.1
+conn: 3 rbytes: 8652460 rMbps: 1.26 fctMs: 725 abytes: 8652420 aMbps: 1.256 sndrttMs 151.4 rcdrttMs 152.2 s_util: 9.02 r_util: 9.02 onperc: 55.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8963680 rMbps: 1.23 fctMs: 608 abytes: 8939700 aMbps: 1.226 sndrttMs 151.5 rcdrttMs 152.0 s_util: 9.00 r_util: 9.00 onperc: 58.4
+conn: 1 rbytes: 9077080 rMbps: 1.25 fctMs: 668 abytes: 9077040 aMbps: 1.249 sndrttMs 151.4 rcdrttMs 152.1 s_util: 9.02 r_util: 9.02 onperc: 58.2
+conn: 2 rbytes: 11860420 rMbps: 1.66 fctMs: 635 abytes: 11857860 aMbps: 1.659 sndrttMs 152.0 rcdrttMs 153.0 s_util: 9.30 r_util: 9.30 onperc: 57.2
+conn: 3 rbytes: 8717980 rMbps: 1.40 fctMs: 623 abytes: 8717940 aMbps: 1.399 sndrttMs 151.7 rcdrttMs 152.4 s_util: 9.13 r_util: 9.13 onperc: 49.9
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 11167420 rMbps: 1.71 fctMs: 638 abytes: 11167380 aMbps: 1.707 sndrttMs 152.3 rcdrttMs 153.4 s_util: 9.32 r_util: 9.32 onperc: 52.3
+conn: 1 rbytes: 7471840 rMbps: 1.11 fctMs: 650 abytes: 7471800 aMbps: 1.109 sndrttMs 151.3 rcdrttMs 151.9 s_util: 8.90 r_util: 8.90 onperc: 53.9
+conn: 2 rbytes: 9703300 rMbps: 1.32 fctMs: 599 abytes: 9703260 aMbps: 1.322 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.07 r_util: 9.07 onperc: 58.7
+conn: 3 rbytes: 10430320 rMbps: 1.41 fctMs: 616 abytes: 10430280 aMbps: 1.411 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.14 r_util: 9.14 onperc: 59.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 10164460 rMbps: 1.39 fctMs: 634 abytes: 10164420 aMbps: 1.395 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.13 r_util: 9.13 onperc: 58.3
+conn: 1 rbytes: 8188780 rMbps: 1.20 fctMs: 650 abytes: 8188740 aMbps: 1.200 sndrttMs 151.3 rcdrttMs 151.9 s_util: 8.98 r_util: 8.98 onperc: 54.6
+conn: 2 rbytes: 10057360 rMbps: 1.46 fctMs: 586 abytes: 10047240 aMbps: 1.460 sndrttMs 151.9 rcdrttMs 153.0 s_util: 9.17 r_util: 9.17 onperc: 55.1
+conn: 3 rbytes: 9060700 rMbps: 1.28 fctMs: 616 abytes: 9060660 aMbps: 1.278 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.04 r_util: 9.04 onperc: 56.7
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9655420 rMbps: 1.38 fctMs: 634 abytes: 9655380 aMbps: 1.384 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.12 r_util: 9.12 onperc: 55.8
+conn: 1 rbytes: 9342940 rMbps: 1.34 fctMs: 622 abytes: 9342900 aMbps: 1.336 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.08 r_util: 9.08 onperc: 55.9
+conn: 2 rbytes: 8156020 rMbps: 1.23 fctMs: 617 abytes: 8155980 aMbps: 1.230 sndrttMs 151.5 rcdrttMs 152.0 s_util: 9.00 r_util: 9.00 onperc: 53.0
+conn: 3 rbytes: 7148020 rMbps: 1.08 fctMs: 622 abytes: 7147980 aMbps: 1.081 sndrttMs 151.3 rcdrttMs 152.0 s_util: 8.87 r_util: 8.87 onperc: 52.9
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9087160 rMbps: 1.36 fctMs: 646 abytes: 9087120 aMbps: 1.356 sndrttMs 151.6 rcdrttMs 152.3 s_util: 9.10 r_util: 9.10 onperc: 53.6
+conn: 1 rbytes: 8280760 rMbps: 1.25 fctMs: 669 abytes: 8278200 aMbps: 1.253 sndrttMs 151.4 rcdrttMs 152.0 s_util: 9.02 r_util: 9.02 onperc: 52.9
+conn: 2 rbytes: 9940180 rMbps: 1.33 fctMs: 644 abytes: 9937620 aMbps: 1.327 sndrttMs 151.6 rcdrttMs 152.4 s_util: 9.08 r_util: 9.08 onperc: 59.9
+conn: 3 rbytes: 8847760 rMbps: 1.27 fctMs: 643 abytes: 8758260 aMbps: 1.253 sndrttMs 151.6 rcdrttMs 152.6 s_util: 9.02 r_util: 9.03 onperc: 55.9
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9043060 rMbps: 1.27 fctMs: 634 abytes: 9043020 aMbps: 1.267 sndrttMs 151.5 rcdrttMs 152.4 s_util: 9.03 r_util: 9.03 onperc: 57.1
+conn: 1 rbytes: 10398820 rMbps: 1.41 fctMs: 630 abytes: 10386180 aMbps: 1.404 sndrttMs 151.6 rcdrttMs 152.5 s_util: 9.13 r_util: 9.13 onperc: 59.2
+conn: 2 rbytes: 9132520 rMbps: 1.27 fctMs: 645 abytes: 9132480 aMbps: 1.273 sndrttMs 151.4 rcdrttMs 152.2 s_util: 9.04 r_util: 9.04 onperc: 57.4
+conn: 3 rbytes: 9288760 rMbps: 1.41 fctMs: 593 abytes: 9278640 aMbps: 1.407 sndrttMs 151.8 rcdrttMs 152.9 s_util: 9.13 r_util: 9.14 onperc: 52.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 9346720 rMbps: 1.38 fctMs: 644 abytes: 9346680 aMbps: 1.382 sndrttMs 151.7 rcdrttMs 152.9 s_util: 9.12 r_util: 9.12 onperc: 54.1
+conn: 1 rbytes: 8855320 rMbps: 1.27 fctMs: 581 abytes: 8855280 aMbps: 1.271 sndrttMs 151.5 rcdrttMs 152.1 s_util: 9.03 r_util: 9.03 onperc: 55.7
+conn: 2 rbytes: 9626440 rMbps: 1.33 fctMs: 652 abytes: 9603720 aMbps: 1.325 sndrttMs 151.6 rcdrttMs 152.6 s_util: 9.08 r_util: 9.08 onperc: 58.0
+conn: 3 rbytes: 8620960 rMbps: 1.24 fctMs: 678 abytes: 8620920 aMbps: 1.241 sndrttMs 151.4 rcdrttMs 151.9 s_util: 9.01 r_util: 9.01 onperc: 55.6
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 100Mb
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 8913280 rMbps: 1.40 fctMs: 662 abytes: 8913240 aMbps: 1.399 sndrttMs 151.7 rcdrttMs 152.6 s_util: 9.13 r_util: 9.13 onperc: 51.0
+conn: 1 rbytes: 9264820 rMbps: 1.31 fctMs: 628 abytes: 9264780 aMbps: 1.310 sndrttMs 151.6 rcdrttMs 152.2 s_util: 9.06 r_util: 9.06 onperc: 56.6
+conn: 2 rbytes: 10964560 rMbps: 1.47 fctMs: 664 abytes: 10964520 aMbps: 1.468 sndrttMs 151.7 rcdrttMs 152.5 s_util: 9.18 r_util: 9.18 onperc: 59.7
+conn: 3 rbytes: 9170320 rMbps: 1.35 fctMs: 590 abytes: 9129960 aMbps: 1.346 sndrttMs 151.7 rcdrttMs 152.2 s_util: 9.09 r_util: 9.10 onperc: 54.2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2

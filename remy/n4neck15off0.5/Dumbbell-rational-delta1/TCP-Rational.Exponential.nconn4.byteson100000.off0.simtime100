@@ -1,0 +1,143 @@
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 8898160 rMbps: 1.40 fctMs: 519 abytes: 8898120 aMbps: 1.398 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.14 r_util: 9.14 onperc: 50.9
+conn: 1 rbytes: 10324480 rMbps: 1.52 fctMs: 579 abytes: 10324440 aMbps: 1.518 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.22 r_util: 9.22 onperc: 54.4
+conn: 2 rbytes: 9189220 rMbps: 1.46 fctMs: 541 abytes: 9175320 aMbps: 1.458 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.18 r_util: 9.18 onperc: 50.3
+conn: 3 rbytes: 9423580 rMbps: 1.49 fctMs: 551 abytes: 9423540 aMbps: 1.487 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.20 r_util: 9.20 onperc: 50.7
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 10945660 rMbps: 1.54 fctMs: 558 abytes: 10945620 aMbps: 1.539 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.23 r_util: 9.23 onperc: 56.9
+conn: 1 rbytes: 10106500 rMbps: 1.50 fctMs: 556 abytes: 10106460 aMbps: 1.499 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.20 r_util: 9.20 onperc: 54.0
+conn: 2 rbytes: 9155200 rMbps: 1.46 fctMs: 547 abytes: 9155160 aMbps: 1.456 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.18 r_util: 9.18 onperc: 50.3
+conn: 3 rbytes: 10692400 rMbps: 1.56 fctMs: 615 abytes: 10672200 aMbps: 1.559 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.24 r_util: 9.25 onperc: 54.8
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 7977100 rMbps: 1.34 fctMs: 505 abytes: 7970760 aMbps: 1.343 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.09 r_util: 9.10 onperc: 47.5
+conn: 1 rbytes: 10968340 rMbps: 1.65 fctMs: 612 abytes: 10968300 aMbps: 1.648 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.30 r_util: 9.30 onperc: 53.3
+conn: 2 rbytes: 9300100 rMbps: 1.46 fctMs: 532 abytes: 9300060 aMbps: 1.457 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.18 r_util: 9.18 onperc: 51.1
+conn: 3 rbytes: 9988060 rMbps: 1.54 fctMs: 569 abytes: 9988020 aMbps: 1.544 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.23 r_util: 9.23 onperc: 51.7
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 10492060 rMbps: 1.51 fctMs: 590 abytes: 10492020 aMbps: 1.512 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.21 r_util: 9.21 onperc: 55.5
+conn: 1 rbytes: 11826400 rMbps: 1.63 fctMs: 644 abytes: 11826360 aMbps: 1.633 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.29 r_util: 9.29 onperc: 57.9
+conn: 2 rbytes: 10216120 rMbps: 1.51 fctMs: 557 abytes: 10208520 aMbps: 1.511 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.21 r_util: 9.21 onperc: 54.0
+conn: 3 rbytes: 10602940 rMbps: 1.56 fctMs: 610 abytes: 10602900 aMbps: 1.563 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.25 r_util: 9.25 onperc: 54.3
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 10727680 rMbps: 1.51 fctMs: 578 abytes: 10717560 aMbps: 1.513 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.21 r_util: 9.21 onperc: 56.7
+conn: 1 rbytes: 9729760 rMbps: 1.53 fctMs: 614 abytes: 9729720 aMbps: 1.527 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.22 r_util: 9.22 onperc: 51.0
+conn: 2 rbytes: 10413940 rMbps: 1.51 fctMs: 557 abytes: 10412640 aMbps: 1.511 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.21 r_util: 9.21 onperc: 55.1
+conn: 3 rbytes: 8617180 rMbps: 1.41 fctMs: 543 abytes: 8617140 aMbps: 1.410 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.14 r_util: 9.14 onperc: 48.9
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 9513040 rMbps: 1.46 fctMs: 550 abytes: 9513000 aMbps: 1.457 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.18 r_util: 9.18 onperc: 52.2
+conn: 1 rbytes: 9680620 rMbps: 1.42 fctMs: 529 abytes: 9680580 aMbps: 1.422 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.15 r_util: 9.15 onperc: 54.4
+conn: 2 rbytes: 10379920 rMbps: 1.53 fctMs: 577 abytes: 10379880 aMbps: 1.532 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.23 r_util: 9.23 onperc: 54.2
+conn: 3 rbytes: 10027120 rMbps: 1.49 fctMs: 577 abytes: 10027080 aMbps: 1.494 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.20 r_util: 9.20 onperc: 53.7
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 10877620 rMbps: 1.56 fctMs: 601 abytes: 10875060 aMbps: 1.557 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.24 r_util: 9.24 onperc: 55.9
+conn: 1 rbytes: 9405940 rMbps: 1.44 fctMs: 538 abytes: 9405900 aMbps: 1.442 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.17 r_util: 9.17 onperc: 52.2
+conn: 2 rbytes: 10466860 rMbps: 1.51 fctMs: 577 abytes: 10454220 aMbps: 1.511 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.21 r_util: 9.21 onperc: 55.4
+conn: 3 rbytes: 10130440 rMbps: 1.49 fctMs: 583 abytes: 10129140 aMbps: 1.493 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.20 r_util: 9.20 onperc: 54.3
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 11089300 rMbps: 1.60 fctMs: 616 abytes: 11089260 aMbps: 1.599 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.27 r_util: 9.27 onperc: 55.5
+conn: 1 rbytes: 9123700 rMbps: 1.43 fctMs: 527 abytes: 9114840 aMbps: 1.427 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.16 r_util: 9.16 onperc: 51.1
+conn: 2 rbytes: 8980060 rMbps: 1.48 fctMs: 526 abytes: 8962380 aMbps: 1.480 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.19 r_util: 9.19 onperc: 48.4
+conn: 3 rbytes: 11069140 rMbps: 1.53 fctMs: 579 abytes: 11067840 aMbps: 1.530 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.23 r_util: 9.23 onperc: 57.9
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 10140520 rMbps: 1.56 fctMs: 610 abytes: 10110240 aMbps: 1.559 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.24 r_util: 9.25 onperc: 51.9
+conn: 1 rbytes: 10842340 rMbps: 1.50 fctMs: 562 abytes: 10842300 aMbps: 1.499 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.20 r_util: 9.20 onperc: 57.9
+conn: 2 rbytes: 10803280 rMbps: 1.50 fctMs: 592 abytes: 10784340 aMbps: 1.502 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.21 r_util: 9.21 onperc: 57.4
+conn: 3 rbytes: 9976720 rMbps: 1.52 fctMs: 566 abytes: 9976680 aMbps: 1.515 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.22 r_util: 9.22 onperc: 52.7
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 10606720 rMbps: 1.60 fctMs: 610 abytes: 10601640 aMbps: 1.597 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.27 r_util: 9.27 onperc: 53.1
+conn: 1 rbytes: 10877620 rMbps: 1.58 fctMs: 587 abytes: 10862460 aMbps: 1.574 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.25 r_util: 9.25 onperc: 55.2
+conn: 2 rbytes: 10102720 rMbps: 1.53 fctMs: 563 abytes: 10102680 aMbps: 1.527 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.22 r_util: 9.22 onperc: 52.9
+conn: 3 rbytes: 9930100 rMbps: 1.46 fctMs: 555 abytes: 9921240 aMbps: 1.460 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.18 r_util: 9.18 onperc: 54.4
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 10626880 rMbps: 1.50 fctMs: 566 abytes: 10607940 aMbps: 1.498 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.20 r_util: 9.21 onperc: 56.6
+conn: 1 rbytes: 10982200 rMbps: 1.52 fctMs: 571 abytes: 10949400 aMbps: 1.520 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.22 r_util: 9.22 onperc: 57.6
+conn: 2 rbytes: 10030900 rMbps: 1.51 fctMs: 547 abytes: 9985500 aMbps: 1.505 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.21 r_util: 9.21 onperc: 53.1
+conn: 3 rbytes: 9111100 rMbps: 1.47 fctMs: 577 abytes: 9111060 aMbps: 1.468 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.18 r_util: 9.18 onperc: 49.7
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 9686920 rMbps: 1.51 fctMs: 557 abytes: 9667980 aMbps: 1.509 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.21 r_util: 9.21 onperc: 51.3
+conn: 1 rbytes: 10818400 rMbps: 1.57 fctMs: 598 abytes: 10818360 aMbps: 1.572 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.25 r_util: 9.25 onperc: 55.0
+conn: 2 rbytes: 9416020 rMbps: 1.47 fctMs: 563 abytes: 9407160 aMbps: 1.469 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.18 r_util: 9.19 onperc: 51.2
+conn: 3 rbytes: 10129180 rMbps: 1.50 fctMs: 552 abytes: 10117800 aMbps: 1.497 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.20 r_util: 9.20 onperc: 54.1
+Reading params from remyconf/dumbbell-buf1000-rtt150-bneck15.tcl
+case: 15Mb
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+tracing OFF for connection 2: none
+tracing OFF for connection 3: none
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 8734360 rMbps: 1.42 fctMs: 541 abytes: 8716680 aMbps: 1.416 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.15 r_util: 9.15 onperc: 49.3
+conn: 1 rbytes: 10231240 rMbps: 1.44 fctMs: 535 abytes: 10231200 aMbps: 1.442 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.17 r_util: 9.17 onperc: 56.8
+conn: 2 rbytes: 9122440 rMbps: 1.37 fctMs: 502 abytes: 9098460 aMbps: 1.367 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.11 r_util: 9.11 onperc: 53.3
+conn: 3 rbytes: 10838560 rMbps: 1.55 fctMs: 589 abytes: 10838520 aMbps: 1.550 sndrttMs 150.8 rcdrttMs 150.8 s_util: 9.24 r_util: 9.24 onperc: 55.9
