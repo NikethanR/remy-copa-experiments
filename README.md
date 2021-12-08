@@ -1,5 +1,8 @@
 # Remy Copa Experiments
 
+### PRESENTATION-LINK
+https://docs.google.com/presentation/d/1HDNpjI3670tfvXougV40RLTOcOxQZlmZ/edit?usp=sharing&ouid=105085625914673633208&rtpof=true&sd=true
+
 All the generated results can be found in appropriate folders for remy and copa <br />
 
 ### Remy SETUP
