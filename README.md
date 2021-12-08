@@ -29,7 +29,7 @@ to install plotting libraries: sudo apt-get install gnuplot inkscape <br />
 ### Running Remy experiments
 TO change the number of sources change it in run-figure4-parallel file and also change the conf files used there to the files you want use from remyconf folder <br />
 Link speed, RTT, offavg etc can be changed in the conf files <br />
-Note - to change RTT change the <br />
+Note - to change RTT change the delay option in the conf file and update the minRTT in the graphmaker file (if delay set at 200 set minrtt in graph maker file to 400)<br />
 
 ### Copa
 Follow the instructions from https://web.mit.edu/copa/#reproduce, some additional steps required to run the experiments- <br />
